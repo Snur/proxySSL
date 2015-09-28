@@ -6,7 +6,7 @@ wget https://snort.org/downloads/snort/snort-2.9.7.5.tar.gz
 apt-get install bison
 apt-get install libpcap-dev
 apt-get install libdnet-dev
-apt-get install libdumpnet-dev
+apt-get install libdumbnet-dev
 tar xvfz daq-2.0.6.tar.gz
 cd daq-2.0.6.tar.gz
 ./configure
