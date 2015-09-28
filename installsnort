@@ -1,0 +1,20 @@
+#!/bin/bash
+mkdir ~/snort
+cd ~/snort
+wget https:://snort.org/downloads/snort/daq-2.0.6.tar.gz
+wget https:://snort.org/downloads/snort/snort-2.9.7.5.tar.gz
+apt-get install bison
+apt-get install libpcap-dev
+apt-get install libdnet-dev
+apt-get install libdumpnet-dev
+tar xvfz daq-2.0.6.tar.gz
+cd daq-2.0.6.tar.gz
+./configure
+make
+make install
+cd ..
+tar xvfz snort-2.9.7.5.tar.gz
+cd snort-2.9.7.5.tar.gz
+./configure --enable-sourcefire
+make
+make install
