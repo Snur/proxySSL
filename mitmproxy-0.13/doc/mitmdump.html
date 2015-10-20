@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>mitmproxy 0.13 - mitmdump</title>
+        
+
+
+<link  href="01-vendor.css" type="text/css" rel="StyleSheet"/>
+<link  href="02-app.css" type="text/css" rel="StyleSheet"/>
+<link  href="syntax.css" type="text/css" rel="StyleSheet"/>
+
+    </head>
+    <body>
+        <div class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">
+                        <img height="20px" src="mitmproxy-long.png"/>
+                    </a>
+                </div>
+                <div class="navbar-header navbar-right">
+                    <a class="navbar-brand" hre="#">0.13 docs</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+                <ul class="nav nav-sidebar">
+    <li><a href="index.html">Introduction</a></li>
+    <li><a href="install.html">Installation</a></li>
+    <li><a href="certinstall.html">About Certificates</a></li>
+    <li><a href="howmitmproxy.html">How mitmproxy works</a></li>
+    <li><a href="modes.html">Modes of Operation</a></li>
+
+    <li class="nav-header">Tools</li>
+        <li><a href="mitmproxy.html">mitmproxy</a></li>
+        <li class="active"><a href="mitmdump.html">mitmdump</a></li>
+        <li><a href="config.html">configuration</a></li>
+
+    <li class="nav-header">Features</li>
+        <li><a href="features/anticache.html">Anticache</a></li>
+
+        <li><a href="features/filters.html">Filter expressions</a></li>
+        <li><a href="features/replacements.html">Replacements</a></li>
+        <li><a href="features/clientreplay.html">Client-side replay</a></li>
+        <li><a href="features/serverreplay.html">Server-side replay</a></li>
+        <li><a href="features/setheaders.html">Set Headers</a></li>
+        <li><a href="features/passthrough.html">Ignore Domains</a></li>
+        <li><a href="features/proxyauth.html">Proxy Authentication</a></li>
+        <li><a href="features/reverseproxy.html">Reverse proxy mode</a></li>
+        <li><a href="features/responsestreaming.html">Response Streaming</a></li>
+        <li><a href="features/socksproxy.html">SOCKS Mode</a></li>
+        <li><a href="features/sticky.html">Sticky cookies and auth</a></li>
+        <li><a href="features/tcpproxy.html">TCP Proxy</a></li>
+        <li><a href="features/upstreamproxy.html">Upstream proxy mode</a></li>
+        <li><a href="features/upstreamcerts.html">Upstream Certs</a></li>
+
+
+    <li class="nav-header">Transparent Proxying</li>
+        <li><a href="transparent.html">Overview</a></li>
+        <li><a href="transparent/linux.html">Linux</a></li>
+        <li><a href="transparent/osx.html">OSX</a></li>
+
+    <li class="nav-header">Scripting</li>
+        <li><a href="scripting/inlinescripts.html">Inline Scripts</a></li>
+        <li><a href="scripting/libmproxy.html">libmproxy</a></li>
+
+    <li class="nav-header">Tutorials</li>
+        <li><a href="tutorials/30second.html">Client playback: a 30 second example</a></li>
+        <li><a href="tutorials/gamecenter.html">Setting highscores on Apple's GameCenter</a></li>
+        <li><a href="tutorials/transparent-dhcp.html">Transparently proxify virtual machines</a></li>
+
+    <li class="nav-header">Hacking</li>
+        <li><a href="dev/architecture.html">Architecture</a></li>
+        <li><a href="dev/testing.html">Testing</a></li>
+        <li><a href="dev/sslkeylogfile.html">TLS Master Secrets</a></li>
+</ul>
+
+            </div>
+            <div class="col-md-9">
+                <div class="page-header">
+                <h1>mitmdump</h1>
+                </div>
+                <p><strong>mitmdump</strong> is the command-line companion to mitmproxy. It provides
+tcpdump-like functionality to let you view, record, and programmatically
+transform HTTP traffic. See the <em>--help</em> flag output for complete
+documentation.</p>
+
+<h1>Examples</h1>
+
+<h2>Saving traffic</h2>
+
+<pre class="terminal">
+> mitmdump -w outfile
+</pre>
+
+<p>Start up mitmdump in proxy mode, and write all traffic to <strong>outfile</strong>. </p>
+
+<h2>Filtering saved traffic</h2>
+
+<pre class="terminal">
+> mitmdump -nr infile -w outfile "~m post"
+</pre>
+
+<p>Start mitmdump without binding to the proxy port (<em>-n</em>), read all flows from
+infile, apply the specified filter expression (only match POSTs), and write to
+outfile.</p>
+
+<h2>Client replay</h2>
+
+<pre class="terminal">
+> mitmdump -nc outfile
+</pre>
+
+<p>Start mitmdump without binding to the proxy port (<em>-n</em>), then replay all
+requests from outfile (<em>-c filename</em>). Flags combine in the obvious way, so
+you can replay requests from one file, and write the resulting flows to
+another:</p>
+
+<pre class="terminal">
+> mitmdump -nc srcfile -w dstfile
+</pre>
+
+<p>See the <a href="features/clientreplay.html">Client-side Replay</a> section for more information.</p>
+
+<h2>Running a script</h2>
+
+<pre class="terminal">
+> mitmdump -s examples/add_header.py
+</pre>
+
+<p>This runs the <strong>add_header.py</strong> example script, which simply adds a new header
+to all responses.</p>
+
+<h2>Scripted data transformation</h2>
+
+<pre class="terminal">
+> mitmdump -ns examples/add_header.py -r srcfile -w dstfile
+</pre>
+
+<p>This command loads flows from <strong>srcfile</strong>, transforms it according to the
+specified script, then writes it back to <strong>dstfile</strong>.</p>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <hr>
+
+          <footer>
+            <p>© mitmproxy project, 2015</p>
+          </footer>
+        </div>
+    </body>
+</html>
