@@ -15,13 +15,13 @@ COMMIT
 :INPUT ACCEPT [1357:83498]
 :FORWARD ACCEPT [0:0]
 :OUTPUT ACCEPT [4050:1107124]
+-A INPUT -p tcp -m tcp --sport 8081 -j NFQUEUE
 -A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
 -A INPUT -p icmp -j ACCEPT
--A INPUT -i lo -p tcp -m tcp --dport 8081 -j NFQUEUE
--A INPUT -p tcp -m state --state RELATED,ESTABLISHED -j NFQUEUE
--A INPUT -i lo -j ACCEPT
+-A INPUT -i lo -j ACCEPT 
 -A INPUT -p tcp -m state --state NEW -m tcp --dport 22 -j ACCEPT
 -A FORWARD -i enp0s3 -o enp0s8 -m state --state RELATED,ESTABLISHED -j NFQUEUE
 -A FORWARD -i enp0s8 -o enp0s3 -j NFQUEUE
+-A OUTPUT -p tcp -m tcp --dport 8081 -j NFQUEUE
 COMMIT
 # Completed on Thu Oct 22 14:49:19 2015
