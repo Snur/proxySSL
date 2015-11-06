@@ -1,0 +1,2 @@
+alert tcp $HOME_NET any -> $EXTERNAL_NET $HTTP_PORTS (flow:to_server,established;sid:1000001)
+alert tcp any any -> 127.0.0.1 8081 (flow:to_server,established;sid:1000002)
