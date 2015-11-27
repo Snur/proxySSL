@@ -1,3 +1,4 @@
 Par Olivier Soucy
 Ce dossier contient une solution permettant à snort ou wireshark ou autre de sniffer le traffic https dans lo sur le routeur.
 Pour partir cette solution, il suffit de restaurer les règles iptables et de lancer les deux mitmproxy avec les commandes dans les fichiers *.sh.
+Assurez-vous que votre snort utilise la NFQUEUE 0 en mode inline. Vous pouvez pour ce faire le lancer à l’aide de la commande contenu dans snortcmd.
