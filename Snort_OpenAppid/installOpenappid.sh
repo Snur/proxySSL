@@ -8,9 +8,9 @@ cd LuaJIT-2.0.2
 sudo make
 sudo make install
 cd ..
-wget https://snort.org/downloads/snort/snort-2.9.7.6.tar.gz
-tar -xvf snort-2.9.7.6.tar.gz
-cd  snort-2.9.7.6
+wget https://www.snort.org/downloads/snort/snort-2.9.8.0.tar.gz
+tar -xvf snort-2.9.8.0.tar.gz
+cd  snort-2.9.8.0
 ./configure --enable-sourcefire --enable-open-appid
 sudo make
 make install

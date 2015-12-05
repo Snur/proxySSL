@@ -1,38 +1,59 @@
-<?php
-  $fich = fopen('/tmp/myrules.rules', 'a');
-  if ($fich == false)
-  	exit();
-  $url = $_POST['url'];
-  if (isset($_POST['like']) && isset($_POST['com'])) {
-    if (!empty($_POST['comment'])) {
-	$comment = $_POST['comment'];
-	$role = "drop tcp any any -> any any (content:\"add=true\"; content:\"comment_text=$comment\"; msg:\"Like et commentaire spécifique     	bloqué\"; nocase; sid=100001;)";
-    }
-    else {
-	// faire la regle sur le like et bloquer les comment
-	$role = "drop tcp any any -> any any (content:\"add=true\"; content:\"comment_text=\"; msg:\"Like et commentaire bloqué\"; nocase; 		sid=100001;)";
-    }
-  }
-  else 
-  if (isset($_POST['like'])) {
-    //faire la règle sur le like uniquement
-    $role = "drop tcp any any -> any any (content:\"add=true\"; msg:\"Like bloqué\"; nocase; sid=100001;)";
-  }
-  else
-  if (isset($_POST['com'])) {
-     if (!empty($_POST['comment'])) {
-	$comment = $_POST['comment'];
-	//bloquer le commentaire spécifié
-	$role = "drop tcp any any -> any any (content:\"comment_text=$comment\"; msg:\"Commentaire spécifique bloqué\"; nocase; sid=100001;)";
-     }
-     else {
-        //bloquer tous les comment
-	$role = "drop tcp any any -> any any (content:\"comment_text=\"; msg:\"Commentaire bloqué\"; nocase; sid=100001;)";
-     }
-  }
+<html>
+  <head>
+    <meta charset = "utf-8">
+    <title> Dark Net </title>
+  </head>
+  <body>
+	<?php
+	  $connect = mysql_connect('localhost','darknet_user','Centos@2015') or die("Erreur de connexion au serveur.");
+	  mysql_select_db('darknet',$connect) or die ("Erreur lors de la connexion à la base de données");
 
-  fwrite($fich,"$role\n");
-  fclose($fich);
-  //header("./index.php");
+	  $req = mysql_query("SELECT * FROM Snort_sid",$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
+	  while($data = mysql_fetch_object($req)) {
+	    $sid = $data->sid_number;
+      }
 
-?>
+      echo "Veuillez copier les règles Snort ci-dessous et les coller dans votre fichier de rôle: 
+      		<strong> /etc/snort/rules/[nom_fichier].rules </strong> <br/> <br/>";
+
+	  $oldSID = $sid;	  	  
+	  $id="";
+
+      if (!empty($_POST['app'])) {
+		$listeApp = $_POST['app'];
+		$app = explode(";", $listeApp);
+		foreach ($app as &$value)
+	 	  $id .= "$value ";
+		  
+		$role = "drop tcp any any -> any any (appid:$id; msg:\"Applications bloquées\"; sid:$sid;)";
+		++$sid;
+		echo "$role <br/>";
+	   }
+	   
+	   if (($tag=$_POST['tag']) != "default") {
+	      $role = "drop tcp any any -> any any (content:\"$tag\"; msg:\"Tag bloqué\"; nocase; sid:$sid;)";
+	      echo "$role <br/>";
+	      ++$sid;
+	   }
+	   
+	   if (!empty($_POST['ajout'])) {
+			$ajout = $_POST['ajout'];
+			$app = explode(";", $ajout);
+			foreach ($app as &$value) {
+			  $tag = explode(":", $value);
+			  $sql = "INSERT INTO tag VALUES ('$tag[1]','$tag[0]')";
+			  $req = mysql_query($sql,$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
+			  $role = "drop tcp any any -> any any (content:\"$tag[1]\"; msg:\"Tag $tag[0] bloqué\"; nocase; sid:$sid;)";
+			  echo "$role <br/>";
+			  ++$sid;
+			}
+	   }	  
+
+	    if ($sid != $oldSID) {
+	    	$sql = "UPDATE Snort_sid SET sid_number = $sid WHERE sid_number = $oldSID";
+		$req = mysql_query($sql,$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
+	    }
+	?>
+  </body>
+</html>
+
