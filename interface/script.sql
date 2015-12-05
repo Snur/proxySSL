@@ -1,6 +1,11 @@
 /***** Script à fournir pour création BD, puis tables, puis insertion des tags *****/
 -- On crée la base de données pour contenir les applications et leurs tags associés
 CREATE DATABASE darknet;
+-- On crée un utilisateur
+CREATE USER 'darknet_user'@'localhost' IDENTIFIED BY 'Centos@2015';
+-- On lui donne les permissions sur la BD qu'on vient de créer
+GRANT ALL ON darknet.* TO 'darknet_user'@'localhost';
+FLUSH PRIVILEGES;
 -- On sélectionne la BD qu'on vient de créer
 USE darknet;
 
