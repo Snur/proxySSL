@@ -1,0 +1,5 @@
+name: echo
+service_name: echo
+protocol: tcp/udp
+ports: 7
+appId: 954

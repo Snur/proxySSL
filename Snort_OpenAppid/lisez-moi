@@ -1,0 +1,7 @@
+Le fichier de config de snort va dans le dossier /etc/snort/.
+Le fichier app.rules va dans le dossier /etc/snort/rules/.
+Le dossier openappid va dans le dossier /usr/local/
+
+Pour installer snort avec openappid correctement, il faut désinstaller 
+snort à partir de yum ou en faisant sudo make uninstall si vous l’avez compilé à partir des sources. Je suggère aussi de désinstaller LuaJIT si installer à partir de sources avec sudo make unistall. Vous allez sur le site de snort et installer le paquet snort-openappid pour centos7.
+Voici le lien : https://www.snort.org/downloads/snort/snort-openappid-2.9.8.0-1.centos7.x86_64.rpm

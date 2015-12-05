@@ -1,0 +1,5 @@
+name: chargen
+service_name: chargen
+protocol: tcp/udp
+ports: 19
+appId: 586

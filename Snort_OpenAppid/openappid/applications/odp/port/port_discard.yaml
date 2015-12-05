@@ -1,0 +1,5 @@
+name: discard
+service_name: discard
+protocol: tcp/udp
+ports: 9
+appId: 614

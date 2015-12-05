@@ -1,0 +1,5 @@
+name: nameserver
+service_name: WINS
+protocol: tcp/udp
+ports: 42
+appId: 505

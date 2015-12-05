@@ -1,0 +1,1 @@
+drop tcp any any -> any any (msg:"blocking any for facebook comment"; appid: Facebook Chat; sid: 1000003)

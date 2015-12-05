@@ -1,0 +1,5 @@
+name: finger
+service_name: finger
+protocol: tcp/udp
+ports: 79
+appId: 637

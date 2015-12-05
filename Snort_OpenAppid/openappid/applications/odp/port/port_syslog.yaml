@@ -1,0 +1,5 @@
+name: syslog
+service_name: syslog
+protocol: udp
+ports: 514
+appId: 462

@@ -1,0 +1,5 @@
+name: nessus
+service_name: nessus
+protocol: tcp
+ports: 1241
+appId: 752

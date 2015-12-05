@@ -1,0 +1,5 @@
+name: linuxconf
+service_name: linuxconf
+protocol: tcp
+ports: 98
+appId: 715

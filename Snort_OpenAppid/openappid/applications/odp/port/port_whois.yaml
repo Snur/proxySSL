@@ -1,0 +1,5 @@
+name: whois
+service_name: whois
+protocol: tcp
+ports: 43
+appId: 953

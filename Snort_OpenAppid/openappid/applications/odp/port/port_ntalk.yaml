@@ -1,0 +1,5 @@
+name: ntalk
+service_name: ntalk
+protocol: udp
+ports: 518
+appId: 766

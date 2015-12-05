@@ -1,0 +1,5 @@
+name: font-service
+service_name: x_font_server
+protocol: tcp
+ports: 7100
+appId: 919

@@ -1,0 +1,5 @@
+name: gopher
+service_name: gopher
+protocol: tcp/udp
+ports: 70
+appId: 667

@@ -1,0 +1,5 @@
+name: talk
+service_name: talk
+protocol: udp
+ports: 517
+appId: 857

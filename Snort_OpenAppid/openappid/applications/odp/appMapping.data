@@ -1,0 +1,2727 @@
+2	3COM-TSMUX	0	0	0	~	3com-tsmux
+4	914CG	0	0	0	~	914cg
+5	ACA Services	0	0	0	~	aca_services
+6	ACI	0	0	0	~	aci
+7	ACR-NEMA	0	0	0	~	acr-nema
+9	ActiveSync	0	121	0	~	activesync
+17	ADrive	0	0	24	~	adrive
+19	AED512	0	0	0	~	aed512
+20	AFP	0	0	0	~	afp
+22	AJP	20043	0	0	ajp	ajp
+23	Alias	0	0	0	~	alias
+24	Amazon	0	0	90	~	amazon
+26	ANSA Notify	0	0	0	~	ansa_notify
+27	ANSA REX Trader	0	0	0	~	ansa_rex_trader
+29	Applejuice	20038	0	0	applejuice	applejuice
+30	AppleShare	0	0	0	~	appleshare
+32	Apple Update	0	290	1585	~	apple_update
+33	ARCISDMS	0	0	0	~	arcisdms
+34	Ariel	0	0	0	~	ariel
+35	ARNS	0	0	0	~	arns
+37	ASA	0	0	0	~	asa
+38	Astraweb	0	0	1445	~	astraweb
+42	AUDIT	0	0	0	~	audit
+45	Avira Download/Update	0	134	0	~	avira_download
+46	Avocent	0	0	0	~	avocent
+47	Backblaze	0	0	112	~	backblaze
+48	Backpack	0	0	26	~	backpack
+49	Battlefield	20039	0	0	battlefield	battlefield
+52	BFTP	0	0	0	~	bftp
+53	BGMP	0	0	0	~	bgmp
+54	BH611	0	0	0	~	bh611
+55	BHEVENT	0	0	0	~	bhevent
+56	BHFHS	0	0	0	~	bhfhs
+57	BHMDS	0	0	0	~	bhmds
+58	Bing	0	0	114	~	bing
+59	BitDefender	0	0	1775	~	bitdefender
+60	BITS	0	280	0	~	bits
+61	BitTorrent	38	229	1349	bt	bt
+62	Blackboard	0	0	28	~	blackboard
+63	Blackjack	0	0	0	~	blackjack
+64	BlazeFS	0	0	0	~	blazefs
+66	Bnet	0	0	0	~	bnet
+67	Cableport AX	0	0	0	~	cableport_ax
+68	CAICCI	20045	0	0	caicci	caicci
+70	CAP	0	0	0	~	cap
+71	CDC	0	0	0	~	cdc
+74	Check Point	20046	0	0	checkpoint	checkpoint
+76	Cisco DRP	0	0	0	~	cisco_drp
+77	Cisco FNATIVE	0	0	0	~	cisco_fnative
+78	Cisco GDP	0	0	0	~	cisco_gdp
+79	Cisco SLA	0	0	0	~	cisco_sla
+80	Cisco SYSMAINT	0	0	0	~	cisco_sysmaint
+81	Cisco TNATIVE	0	0	0	~	cisco_tnative
+84	Citrix IMA	0	0	0	~	citrix_ima
+86	Citrix Licensing	0	0	0	~	citrix_licensin
+88	Citrix RTMP	0	0	0	~	citrix_rtmp
+89	Citrix SLG	0	0	0	~	citrix_slg
+91	CL1	0	0	0	~	cl1
+92	Clearcase	0	0	0	~	clearcase
+93	CLOANTO	0	0	0	~	cloanto
+94	CMIP	0	0	0	~	cmip
+95	Coda Auth	0	0	0	~	coda_auth
+96	Commvault	20171	0	1474	commvault	commvault
+97	CompressNET	0	0	0	~	compressnet
+98	COMSCM	0	0	0	~	comscm
+99	CORBA	0	0	0	~	corba
+106	DASP	0	0	0	~	dasp
+107	DATEX-ASN	0	0	0	~	datex-asn
+108	dBase	0	0	0	~	dbase
+109	DCAP	0	0	0	~	dcap
+111	DCP	0	0	0	~	dcp
+112	DEC Auth	0	0	0	~	dec_auth
+113	DEC LaDebug	0	0	0	~	dec_ladebug
+114	DECVMS	0	0	0	~	decvms
+117	Digg	0	0	31	~	digg
+118	Direct Connect	20040	0	0	direct_connect	direct_connect
+119	PDRE	0	0	0	~	pdre
+120	DIXIE	0	0	0	~	dixie
+121	DLS	0	0	0	~	dls
+122	DNA-CML	0	0	0	~	dna-cml
+123	DNSIX	0	0	0	~	dnsix
+124	DPSI	0	0	0	~	dpsi
+125	Dropbox	0	300	98	~	dropbox
+126	DSFGW	0	0	0	~	dsfgw
+127	DSP3270	0	0	0	~	dsp3270
+128	DSP	0	0	0	~	dsp
+130	DTAG	0	0	0	~	dtag
+132	eBay	0	0	1551	~	ebay
+133	eBay Bid	0	0	32	~	ebay_bid
+134	eBay Search	0	0	33	~	ebay_search
+135	eBay Watch	0	0	34	~	ebay_watch
+136	eBuddy	0	0	35	~	ebuddy
+138	EMBLNDT	0	0	0	~	emblndt
+139	EMFIS Data	0	0	0	~	emfis_data
+140	EntrustTime	0	0	0	~	entrusttime
+142	ERPC	0	0	0	~	erpc
+143	Eset	0	490	1774	~	eset
+145	ESRO	0	0	0	~	esro
+147	ETOS	0	0	0	~	etos
+149	Facebook Apps	0	0	852	~	facebook_apps
+150	Fark	0	0	36	~	fark
+153	FastTrack	0	51	0	~	fasttrack
+154	Fatmen	0	0	0	~	fatmen
+155	FileMaker	0	0	0	~	filemaker
+156	Filer.cx	0	0	1719	~	filer.cx
+158	FlashGet	0	52	0	~	flashget
+159	Flickr	0	0	225	~	flickr
+160	Flixster	0	219	0	~	flixster
+161	FogBugz	0	0	120	~	fogbugz
+163	FreeCast	0	0	831	~	freecast
+164	FriendFeed	0	0	1700	~	friendfeed
+165	FTP	8	0	0	ftp	ftp
+166	FTP Data	36	0	0	ftp-data	ftp-data
+167	FTPS Data	20132	0	0	ftpsdata	ftpsdata
+168	FTPS	20131	0	0	ftps	ftps
+169	FXP	0	0	0	~	fxp
+170	GACP	0	0	0	~	gacp
+171	Ganglia	20047	0	0	ganglia	ganglia
+173	Genie	0	0	0	~	genie
+174	GENRAD	0	0	0	~	genrad
+175	Giganews	0	492	0	~	giganews
+176	GIOP	20048	0	0	giop	giop
+177	GIST	0	0	0	~	gist
+178	Google APIs	0	0	1254	~	google_apis
+179	Google App Engine	0	326	1052	~	google_app_engi
+180	Google Drive	0	0	285	~	google_drive
+182	Google Talk Gadget	0	460	0	~	google_talk_gad
+184	Google	0	0	872	~	google
+185	Google Translate	0	0	1295	~	google_translat
+188	GPFS	0	0	0	~	gpfs
+190	Groupwise	20075	84	0	groupwise	groupwise
+192	Gss X License Verification	0	0	0	~	gss_x_license_v
+198	HDAP	0	0	0	~	hdap
+200	HiveStor	0	0	0	~	hivestor
+201	HL7	20153	262	0	hl7	hl7
+202	Hopster	0	0	1501	~	hopster
+206	HP Perf	0	0	0	~	hp_perf
+207	HP VMM	0	0	0	~	hp_vmm
+209	HTTPMGT	0	0	0	~	httpmgt
+211	Hyper-G	0	0	0	~	hyper-g
+212	IASD	0	0	0	~	iasd
+214	ICA Browser	20051	0	0	ica_browser	ica_browser
+215	ICAD	0	0	0	~	icad
+216	ICAP	20052	0	0	icap	icap
+217	ICA	20050	0	0	ica	ica
+218	IceShare	0	55	0	~	iceshare
+221	ICP	0	0	0	~	icp
+222	ICQ2Go	0	0	42	~	icq2go
+225	IKE	20064	0	0	isakmp	isakmp
+226	IMGames	0	0	0	~	imgames
+229	Informix	20053	0	0	informix	informix
+230	InfoSeek	0	0	0	~	infoseek
+232	IngresNET	0	0	0	~	ingresnet
+240	ircu	20054	0	0	ircu	ircu
+244	ISI Graphics	0	0	0	~	isi_graphics
+247	Jargon	0	0	0	~	jargon
+248	Kaspersky	0	0	1778	~	kaspersky
+250	KFTPDATA	0	0	0	~	kftpdata
+251	KFTP	0	0	0	~	kftp
+252	KIS	0	0	0	~	kis
+253	KNETCMP	0	0	0	~	knetcmp
+254	Kryptolan	0	0	0	~	kryptolan
+255	Ktelnet	0	0	0	~	ktelnet
+256	Kugou	0	58	832	~	kugou
+257	KVM	0	0	0	~	kvm
+258	KWDB	0	0	0	~	kwdb
+259	L2TP	0	0	0	~	l2tp
+261	Last.fm	0	411	1500	~	last.fm
+262	Legent	0	0	0	~	legent
+263	LINK	0	0	0	~	link
+264	Live365	0	0	45	~	live365
+265	Livemeeting	0	0	0	~	livemeeting
+266	Livestation	0	0	47	~	livestation
+267	LLMNR	0	0	0	~	llmnr
+269	Locus Map	0	0	0	~	locus_map
+270	LogMeIn	0	0	1532	~	logmein
+272	Mafiawars	0	0	904	~	mafiawars
+273	Magenta Logic	0	0	0	~	magenta_logic
+275	MAILQ	0	0	0	~	mailq
+277	MAPI	20081	89	0	mapi	mapi
+278	Masqudialer	0	0	0	~	masqudialer
+279	MATIP	0	0	0	~	matip
+280	McAfee	0	489	1773	~	mcafee
+281	MC-FTP	0	0	0	~	mc-ftp
+282	McIDAS	0	0	0	~	mcidas
+283	mck-ivpip	0	0	0	~	mck-ivpip
+285	MediaFire	0	0	243	~	mediafire
+287	Meeting Maker	0	0	0	~	meeting_maker
+288	Meta5	0	0	1556	~	meta5
+289	Metagram	0	0	0	~	metagram
+292	Mini SQL	0	0	0	~	mini_sql
+293	mit-ml-dev	0	0	0	~	mit-ml-dev
+294	MIT Spooler	0	0	0	~	mit_spooler
+295	Mixi	0	0	50	~	mixi
+296	MobileIP	0	0	0	~	mobileip
+297	MortgageWare	0	0	0	~	mortgageware
+303	MS CRS	0	0	0	~	ms_crs
+304	MSDN	0	0	423	~	msdn
+305	MSG	0	0	0	~	msg
+306	MSMQ	0	0	0	~	msmq
+307	MSNP	0	0	0	~	msnp
+308	MSN	0	0	52	~	msn
+309	MS OLAP	0	0	0	~	ms_olap
+311	MSP	0	0	0	~	msp
+317	MySpace	0	0	14	~	myspace
+318	NAMP	0	0	0	~	namp
+319	Napster	0	0	54	~	napster
+320	NCED	0	0	0	~	nced
+321	NCLD	0	0	0	~	ncld
+322	NDS Auth	0	0	0	~	nds_auth
+324	Netinfo	0	0	0	~	netinfo
+327	NETSC	0	0	0	~	netsc
+328	NetScout	0	0	0	~	netscout
+329	Netware	0	0	0	~	netware
+330	NFA	0	0	0	~	nfa
+332	NI FTP	0	0	0	~	ni_ftp
+333	NI Mail	0	0	0	~	ni_mail
+334	NIP	0	0	0	~	nip
+335	NNSP	0	0	0	~	nnsp
+336	NovaBACKUP	0	0	1574	~	novabackup
+338	NSIIOPS	20130	0	0	nsiiops	nsiiops
+340	NSS	0	0	0	~	nss
+341	NSSTP	0	0	0	~	nsstp
+342	NXEdit	0	0	0	~	nxedit
+343	NeXTStep	0	0	0	~	nextstep
+344	OCBinder	0	0	0	~	ocbinder
+345	OCServer	0	0	0	~	ocserver
+346	OCS	0	0	0	~	ocs
+347	ODMR	0	0	0	~	odmr
+348	OFTP	0	0	0	~	oftp
+349	OFTPS	0	0	0	~	oftps
+350	Onmux	0	0	0	~	onmux
+351	Opalis Robot	0	0	0	~	opalis_robot
+352	Openport	0	0	0	~	openport
+353	OpenVPN	0	0	0	~	openvpn
+355	Oracle SQLNET	0	0	0	~	oracle_sqlnet
+356	Orkut	0	0	55	~	orkut
+359	Panda	0	494	1776	~	panda
+360	PartyPoker	0	0	57	~	partypoker
+362	PCMAIL	0	0	0	~	pcmail
+363	PDAP	0	0	0	~	pdap
+365	PFTP	0	0	0	~	pftp
+367	PIP	0	0	0	~	pip
+368	PKIX Timestamp	0	0	0	~	pkix_timestamp
+369	Plaxo	0	0	1596	~	plaxo
+370	POP2	0	0	0	~	pop2
+374	PPStream	0	0	59	~	ppstream
+376	lpr	21	0	0	ldp	ldp
+377	PROFILE	0	0	0	~	profile
+378	PROSPERO	0	0	0	~	prospero
+381	PWDGEN	0	0	0	~	pwdgen
+382	Qbik	0	0	0	~	qbik
+386	QQ	20089	97	1600	qq	qq
+387	QuickTime	0	304	3	~	quicktime
+391	Remote Job Service	0	0	0	~	remote_job_serv
+392	Remote Telnet	0	0	0	~	remote_telnet
+393	ResCap	0	0	0	~	rescap
+395	RIP	0	0	0	~	rip
+396	RIS	0	0	0	~	ris
+397	RJE	0	0	0	~	rje
+398	rlogin	29	0	0	login	login
+399	RLP	0	0	0	~	rlp
+400	RMT	0	0	0	~	rmt
+401	RPC2PMAP	0	0	0	~	rpc2pmap
+402	RRP	0	0	0	~	rrp
+404	RSVD	0	0	0	~	rsvd
+408	RTSPS	0	0	0	~	rtsps
+412	Sco I2 Dialog Daemon	0	0	0	~	sco_i2_dialog_d
+415	Second Life	20033	0	0	secondlife	secondlife
+416	SecurSight	0	0	0	~	secursight
+417	Semantix	0	0	0	~	semantix
+420	SFTP	0	0	0	~	sftp
+421	SGCP	0	0	0	~	sgcp
+422	SGMP	0	0	0	~	sgmp
+423	Sharepoint	0	0	840	~	sharepoint
+424	Shrinkwrap	0	0	0	~	shrinkwrap
+425	Silverplatter	0	0	0	~	silverplatter
+426	SIP	20028	30	0	sip	sip
+428	Skype Auth	20034	0	0	skype_auth	skype_auth
+432	Slingbox	0	0	64	~	slingbox
+433	SMAKYNET	0	0	0	~	smakynet
+435	SMPTE	0	0	0	~	smpte
+436	SMSP	0	0	0	~	smsp
+438	SNA Gateway	0	0	0	~	sna_gateway
+440	SNPP	0	0	0	~	snpp
+441	SoftPC	0	0	0	~	softpc
+442	SoulSeek	20142	61	833	~	soulseek
+444	SRC	0	0	0	~	src
+445	SRMP	0	0	0	~	srmp
+446	Sender Rewriting Scheme	0	0	0	~	sender_rewritin
+448	StationLauncher	0	62	0	~	stationlauncher
+449	Stat Service	0	0	0	~	stat_service
+451	Su-Mit Telnet	0	0	0	~	su-mit_telnet
+452	Sun RPC	28	0	0	sunrpc	sunrpc
+453	SUPDUP	0	0	0	~	supdup
+454	SuperNews	0	0	1632	~	supernews
+458	Sybase SQL	0	0	0	~	sybase_sql
+459	Symantec System Center	20057	0	0	symantec_system	symantec_system
+462	syslog	20020	0	0	syslog	syslog
+463	Systat	0	0	0	~	systat
+464	TACACS+	20095	103	0	tacacs	tacacs
+466	TCPMUX	0	0	0	~	tcpmux
+468	Texar	0	0	0	~	texar
+470	Time	0	0	0	~	time_protocol
+472	Tobit David	0	0	0	~	tobit_david
+474	Tripwire	0	0	0	~	tripwire
+475	Tumblr	0	271	255	~	tumblr
+476	UAAC	0	0	0	~	uaac
+477	UARPS	0	0	0	~	uarps
+478	UC4	20059	0	0	uc4	uc4
+480	UIS	0	0	0	~	uis
+481	ListProc	0	0	1530	~	listproc
+482	UMA	0	0	0	~	uma
+483	Unicenter	20044	0	0	unicenter	unicenter
+484	Unidata LDM	0	0	0	~	unidata_ldm
+485	Unify	0	0	0	~	unify
+486	UPS	0	0	0	~	ups
+490	UUCP	0	0	0	~	uucp
+491	Vchat	0	0	0	~	vchat
+492	vettcp	0	0	0	~	vettcp
+493	VMNET	0	0	0	~	vmnet
+494	VM PWSCS	0	0	0	~	vm_pwscs
+495	Vonage	0	0	851	~	vonage
+496	VSLMP	0	0	0	~	vslmp
+497	Vuze	0	63	834	~	vuze
+498	WCCP	0	0	0	~	wccp
+499	Webfilter	0	0	0	~	webfilter
+500	WebLogic	20042	44	0	weblogic	weblogic
+501	Wikipedia	0	0	187	~	wikipedia
+502	Windows Live	0	0	1782	~	windows_live
+505	WINS	20014	0	0	nameserver	nameserver
+506	Wordpress	0	0	1718	~	wordpress
+507	World of Warcraft	0	64	0	~	wowcraft
+510	Xanga	0	0	1715	~	xanga
+511	Xbone	0	0	0	~	xbone
+514	Xfer	0	0	0	~	xfer
+516	XNS Authentication	0	0	0	~	xns_authenticat
+517	XNS Clearinghouse	0	0	0	~	xns_clearinghou
+518	XNS Mail	0	0	0	~	xns_mail
+519	XNS Time	0	0	0	~	xns_time
+520	XNS	0	0	0	~	xns
+521	Xyplex	0	0	0	~	xyplex
+522	Yahoo! Games	0	0	72	~	yahoo_games
+524	Yahoo!	0	126	990	~	yahoo
+525	ANSI Z39.50	0	0	0	~	ansi_z39.50
+526	Zannet	0	0	0	~	zannet
+527	Zebra	0	0	0	~	zebra
+528	Zoho	0	0	1717	~	zoho
+529	Zoho Chat	0	0	75	~	zoho_chat
+530	Zoho Mail	0	0	76	~	zoho_mail
+532	Zoho Wiki	0	0	78	~	zoho_wiki
+533	Zynga	0	0	137	~	zynga
+535	1-800-Flowers	0	0	88	~	1-800-flowers
+536	100Bao	20068	69	0	100bao	100bao
+537	2channel	0	0	109	~	2channel
+538	6.pm	0	0	207	~	6.pm
+539	Ace Hardware Corporation	0	0	208	~	ace_hardware
+540	Addicting Games	0	0	209	~	addicting_games
+541	Adobe Software	0	0	21	~	adobe_software
+542	Adorama	0	0	89	~	adorama
+544	American Express	0	0	110	~	amex
+545	Android browser	0	49	0	~	android_browser
+546	AOL Mail	0	0	13	~	aol_mail
+547	AOL Instant Messenger	2	19	0	aim	aim
+550	Apple Mail	0	7	0	~	apple_mail
+551	Apple Store	0	0	91	~	apple_store
+552	ARCServe	20069	70	0	arcserve	arcserve
+553	Ares	20103	107	0	ares	ares
+554	Argos	0	0	92	~	argos
+556	Atom.com	0	0	210	~	atom.com
+557	Autoblog	0	0	197	~	autoblog
+558	AutoTrader.com	0	0	194	~	autotrader.com
+559	B&H Photo Video	0	0	96	~	bh_photo_video
+560	Bank of America	0	0	113	~	bank_of_america
+561	Barnes and Noble	0	0	94	~	barnes_n_noble
+562	Barneys New York	0	0	211	~	barneys_ny
+563	Basecamp	0	0	204	~	basecamp
+564	Battle.net	20101	0	0	battle_net	battle_net
+566	Bebo	0	0	27	~	bebo
+567	Best Buy	0	0	95	~	best_buy
+568	beWeeVee	0	0	283	~	beweevee
+569	BGP	3	0	0	bgp	bgp
+571	BitTorrent tracker	0	25	0	~	torrent_tracker
+572	Black & Decker Corporation	0	0	212	~	black_decker
+573	Blackberry browser	0	50	0	~	blackberry_brow
+574	Blip.tv	0	0	213	~	blip.tv
+575	Blockbuster	0	0	192	~	blockbuster
+576	Blogger	0	0	29	~	blogger
+577	Bloomingdales	0	0	214	~	bloomingdales
+578	Blue Nile	0	0	216	~	blue_nile
+579	Bluefly	0	0	215	~	bluefly
+581	CamerasDirect.com.au	0	0	138	~	camerasdirect
+582	Capital One	0	0	115	~	capital_one
+583	Car and Driver	0	0	195	~	car_and_driver
+584	CarMax	0	0	139	~	carmax
+585	CDiscount	0	0	140	~	cdiscount
+586	Character Generator	20000	0	0	chargen	chargen
+587	Chase	0	0	191	~	chase
+588	CheapTickets	0	0	218	~	cheaptickets
+589	Chrome	0	46	0	~	chrome
+590	Citi	0	0	116	~	citi
+591	City Sports	0	0	219	~	city_sports
+592	Collabedit	0	0	286	~	collabedit
+593	Costco	0	0	141	~	costco
+594	Craigslist	0	0	206	~	craigslist
+595	Crutchfield	0	0	142	~	crutchfield
+596	cURL	0	36	0	~	curl
+597	CVS	20070	71	0	cvs	cvs
+599	DAAP	20073	0	0	daap	daap
+600	Dailymotion	0	0	30	~	dailymotion
+601	David Jones	0	0	220	~	david_jones
+602	DB2	20071	72	0	db2	db2
+603	DCE/RPC	5	0	0	dcerpc	dcerpc
+604	Deals Direct	0	0	143	~	deals_direct
+605	Delicious	0	0	221	~	delicious
+606	Dell	0	0	144	~	dell
+607	Destructoid	0	0	222	~	destructoid
+608	deviantART	0	0	287	~	deviantart
+609	DHCP	4	0	0	dhcp	dhcp
+611	Dick's Sporting Goods	0	0	193	~	dicks_sporting
+612	Diigo	0	0	223	~	diigo
+613	Dillards	0	0	224	~	dillards
+614	Discard	20005	0	0	discard	discard
+615	Discover	0	0	117	~	discover
+616	DNP3	20066	67	0	dnp3	dnp3
+617	DNS	6	0	0	dns	dns
+618	DRDA	20072	73	0	drda	drda
+619	Dropbear	0	39	0	~	dropbear
+620	Drugstore.com	0	0	145	~	drugstore
+621	E*TRADE	0	0	118	~	etrade
+622	Edmunds.com	0	0	146	~	edmunds
+623	eDonkey	20080	88	0	edonkey	edonkey
+624	Eudora	0	8	0	~	eudora
+625	Eudora Pro	0	9	0	~	eudora_pro
+626	Evolution	0	5	0	~	evolution
+627	exec	7	0	0	exec	exec
+628	Expedia	0	0	147	~	expedia
+629	Facebook	0	161	17	~	facebook
+630	Facebook Chat	0	0	82	~	fb_chat
+631	Facebook Comment	0	0	83	~	fb_comment
+632	Premier Football	0	0	97	~	premier_footbal
+633	Facebook Read Email	0	0	85	~	fb_read_email
+634	Facebook Send Email	0	0	86	~	fb_send_email
+635	Facebook Status Update	0	0	84	~	fb_status
+636	Fidelity	0	0	119	~	fidelity
+637	Finger	20006	0	0	finger	finger
+638	Firefox	0	32	0	~	firefox
+640	Fnac	0	0	148	~	fnac
+642	Friendster	0	0	37	~	friendster
+643	Fry's Electronics	0	0	149	~	frys_electronic
+644	FTD	0	0	150	~	ftd
+646	G4	0	0	226	~	g4
+647	Game Informer	0	0	227	~	game_informer
+648	GameSpot	0	0	121	~	gamespot
+649	GameSpy	0	0	228	~	gamespy
+650	GameStop	0	0	122	~	gamestop
+651	GameTrailers	0	0	229	~	gametrailers
+652	Gawker	0	0	123	~	gawker
+655	Gmail	0	0	12	~	gmail
+657	GnucleusLAN	0	74	0	~	gnucleuslan
+658	Gnutella	20030	27	0	gnutella	gnutella
+659	Gnutella2	20074	0	0	gnutella2	gnutella2
+660	Google Analytics	0	218	38	~	google_analytic
+661	Google Calendar	0	0	39	~	google_calendar
+663	Google News	0	0	230	~	google_news
+664	Google Product Search	0	0	151	~	google_product_
+665	Google Safebrowsing	0	0	40	~	google_safebrow
+667	Gopher	20008	0	0	gopher	gopher
+669	Haiku Learning Systems	0	0	231	~	haiku_learning
+670	Home Depot	0	0	152	~	home_depot
+671	Hostname server	20009	0	0	hostname	hostname
+672	Google Earth	0	54	0	~	google_earth
+673	Hotline	20077	86	0	hotline	hotline
+674	House of Fraser	0	0	233	~	house_of_fraser
+675	HSBC	0	0	125	~	hsbc
+676	HTTP	9	0	0	http	http
+677	Hulu	0	0	41	~	hulu
+678	IBM App	0	0	0	~	ibm_app
+679	ICQ	0	56	1508	~	icq
+680	IGN	0	0	126	~	ign
+682	ImageShack	0	0	235	~	imageshack
+683	IMAP	10	127	0	imap	imap
+684	Imgur	0	0	236	~	imgur
+685	imo.im	0	0	237	~	imo.im
+686	Internet Explorer	0	1	0	~	internet_explor
+687	IRC	12	0	0	ircd	ircd
+688	ITU H.323	20076	85	0	itu_h_323	itu_h_323
+689	iTunes	0	75	850	~	itunes
+690	J.C. Penney	0	0	154	~	jcpenny
+691	J&R	0	0	155	~	j&r
+692	Jabber	20078	87	0	jabber	jabber
+693	Jalopnik	0	0	196	~	jalopnik
+694	Java RMI	20055	0	0	java_rmi	java_rmi
+695	JIRA	0	0	201	~	jira
+696	Joystiq	0	0	238	~	joystiq
+697	KAD	20079	0	0	kad	kad
+698	Kay Jewelers	0	0	156	~	kay_jewelers
+700	KMail	0	12	0	~	kmail
+701	Kerberos	20011	128	0	kerberos	kerberos
+702	Kmart	0	0	157	~	kmart
+703	Kogan Technologies	0	0	158	~	kogan_tech
+704	Kohl's	0	0	159	~	kohl's
+705	Kongregate	0	0	239	~	kongregate
+706	Konqueror	0	4	0	~	konqueror
+707	Kotaku	0	0	199	~	kotaku
+708	Launchpad	0	0	203	~	launchpad
+710	LDAP	20012	0	0	ldap	ldap
+711	Limelight	0	0	43	~	limelight
+713	LinkedIn	0	0	44	~	linkedin
+714	LinkedIn Job Search	0	0	87	~	linkedin_jobs
+715	Linuxconf	20013	0	0	linuxconf	linuxconf
+716	LiveJournal	0	0	46	~	livejournal
+718	Lokalisten	0	0	106	~	lokalisten
+719	Lord & Taylor	0	0	240	~	lord_taylor
+720	Lotus Notes	20056	6	0	lotus_notes	lotus_notes
+721	LOVEFiLM	0	0	241	~	lovefilm
+722	Lowe's	0	0	160	~	lowes
+723	lsh	0	40	0	~	lsh
+724	Manolito	20084	98	0	manolito	manolito
+725	Megaco	20085	93	0	megaco	megaco
+727	Menards	0	0	245	~	menards
+728	Metacafe	0	0	246	~	metacafe
+729	MetaFilter	0	0	79	~	metafilter
+730	MGCP	20082	90	0	mgcp	mgcp
+731	Microsoft Update	0	0	15	~	ms_update
+732	Microsoft Windows Messenger	0	23	0	~	ms_windows_msgr
+733	Minus	0	0	247	~	minus
+734	Mixx	0	0	248	~	mixx
+735	MMS	20083	91	0	mms	mms
+736	Mobile Safari	0	47	0	~	mobile_safari
+737	Modbus	20067	0	0	modbus	modbus
+738	Morgan Stanley	0	0	128	~	morgan_stanley
+743	MSN Messenger	20035	16	0	msn_messenger	msn_messenger
+745	Mute	20086	94	0	mute	mute
+746	Mutt	0	11	0	~	mutt
+747	MySQL	14	0	0	mysql	mysql
+748	myUdutu	0	0	274	~	myudutu
+749	NCP	20087	95	0	ncp	ncp
+750	Neckermann	0	0	161	~	neckermann
+751	Neiman Marcus	0	0	249	~	neiman_marcus
+752	Nessus	20015	0	0	nessus	nessus
+753	NetBIOS-dgm	15	0	0	netbios-dgm	netbios-dgm
+754	NetBIOS-ns	16	0	0	netbios-ns	netbios-ns
+755	NetBIOS-ssn (SMB)	17	0	0	netbios-ssn	netbios-ssn
+756	Netflix	0	0	162	~	netflix
+757	Netlog	0	0	290	~	netlog
+758	Netvibes	0	0	107	~	netvibes
+759	Newegg	0	0	163	~	newegg
+760	NewsNow	0	0	250	~	newsnow
+761	Newsvine	0	0	251	~	newsvine
+762	Nico Nico Douga	0	0	80	~	nico_douga
+763	NNTP	18	0	0	nntp	nntp
+764	Nordstrom	0	0	252	~	nordstrom
+765	NSPlayer	0	92	0	~	nsplayer
+766	ntalk	20016	0	0	ntalk	ntalk
+767	NTP	19	0	0	ntp	ntp
+768	Office Depot	0	0	164	~	office_depot
+769	OfficeMax	0	0	253	~	officemax
+770	oo.com.au	0	0	165	~	oo.com.au
+771	OpenSSH	0	37	0	~	openssh
+773	Oracle Database	0	29	0	~	oracle_database
+774	TNS/Oracle	20026	0	0	oracle	oracle
+775	Orbitz	0	0	254	~	orbitz
+776	Outlook	0	2	0	~	outlook
+777	Outlook Express	0	3	0	~	outlook_express
+778	Overstock.com	0	0	166	~	overstock
+779	Pandora	0	298	56	~	pandora
+780	PC-Duo	20065	68	0	pc_duo	pc_duo
+781	PcAnywhere	20088	96	0	pcanywhere	pcanywhere
+782	PeerCast	20092	100	0	peercast	peercast
+783	PeerEnabler	0	59	0	~	peerenabler
+784	Photobucket	0	0	81	~	photobucket
+785	Picasa	0	41	1294	~	picasa
+786	Poco	20093	101	0	poco	poco
+787	Pogo	0	0	58	~	pogo
+788	POP3	20	129	0	pop3	pop3
+789	PopCap Games	0	0	256	~	popcap_games
+790	PopUrls	0	0	257	~	popurls
+791	PostgreSQL	20017	102	0	postgresql	postgresql
+792	Priceline.com	0	275	258	~	priceline
+793	ProFlowers	0	0	167	~	proflowers
+794	PuTTY	0	38	0	~	putty
+795	Quake	20090	99	0	quake	quake
+796	Quickflix	0	0	259	~	quickflix
+797	Quill Corporation	0	0	260	~	quill_corp
+798	QVC	0	0	168	~	qvc
+799	Qzone	0	0	288	~	qzone
+800	RADIUS	23	0	0	radius	radius
+801	RADIUS-acct	22	0	0	radacct	radacct
+802	RapidShare	0	0	60	~	rapidshare
+803	RDP	20029	33	0	rdp	rdp
+804	Reddit	0	0	61	~	reddit
+805	Redmine	0	0	200	~	redmine
+806	REI	0	0	169	~	rei
+808	Renren	0	0	289	~	renren
+809	REVOLVEclothing	0	0	261	~	revolveclothing
+810	Rona	0	0	262	~	rona
+812	RTMP	20063	0	0	rtmp	rtmp
+813	RTP	20032	31	0	rtp	rtp
+814	RTSP	20018	0	0	rtsp	rtsp
+815	Safari	0	45	0	~	safari
+816	Saks Fifth Avenue	0	0	263	~	saks_fifth_ave
+817	Sam's Club	0	0	171	~	sams_club
+818	schuelerVZ	0	0	104	~	schuelervz
+819	Schwab	0	0	130	~	schwab
+820	Scottrade	0	0	131	~	scottrade
+821	Sears	0	0	172	~	sears
+823	shell	27	0	0	shell	shell
+824	Shockwave	0	241	8	~	shockwave
+825	Shoplet	0	0	264	~	shoplet
+826	ShopNBC	0	0	174	~	shopnbc
+827	HP Home & Home Office Store	0	0	153	~	hp_store
+828	ShopStyle	0	0	265	~	shopstyle
+829	SHOUTCast Radio	0	0	62	~	shoutcast_radio
+830	ShowClix	0	0	266	~	showclix
+831	ShowDocument	0	0	284	~	showdocument
+832	Skype	0	21	1255	~	skype
+834	Slashdot	0	0	63	~	slashdot
+836	SMTP	30	125	0	smtp	smtp
+837	SNMP	31	0	0	snmp	snmp
+839	SOCKS	20019	0	0	socks	socks
+840	Soribada	0	0	65	~	soribada
+841	spin.de	0	0	105	~	spin.de
+842	Sports Authority	0	0	267	~	sports_auth
+844	Squid	20062	0	0	squid	squid
+846	SSH	32	0	0	ssh	ssh
+847	SSL	33	0	0	ssl	ssl
+848	Staples	0	0	175	~	staples
+849	StayFriends	0	0	101	~	stayfriends
+850	StubHub	0	0	268	~	stubhub
+851	studiVZ	0	0	103	~	studivz
+852	StumbleUpon	0	0	66	~	stumbleupon
+853	STUN	20037	0	0	stun	stun
+854	Swarovski	0	0	269	~	swarovski
+855	T. Rowe Price	0	0	133	~	troweprice
+856	TDS	0	43	0	~	tds
+857	talk	20021	0	0	talk	talk
+858	Target	0	0	176	~	target
+859	Tchibo	0	0	177	~	tchibo
+860	TD Ameritrade	0	327	111	~	td_ameritrade
+861	Telnet	34	0	0	telnet	telnet
+862	TFTP	35	0	0	tftp	tftp
+863	The Gap	0	0	205	~	gapstores
+864	The Sharper Image	0	0	173	~	sharper_image
+865	ThinkGeek	0	0	178	~	thinkgeek
+866	Thunderbird	0	14	0	~	thunderbird
+867	Ticketmaster	0	0	179	~	ticketmaster
+868	Tickets.com	0	0	180	~	tickets
+869	TicketsNow	0	0	270	~	ticketsnow
+870	Tiffany & Co.	0	0	271	~	tiffany
+871	Tiger Direct	0	0	181	~	tiger_direct
+872	Timbuktu	20031	28	0	timbuktu	timbuktu
+873	TinyPic	0	0	272	~	tinypic
+874	Tivoli	20058	254	0	tivoli	tivoli
+876	TOC	20097	105	0	toc	toc
+877	Top Gear	0	0	198	~	top_gear
+878	Trac	0	0	202	~	trac
+880	Travelocity	0	0	182	~	travelocity
+881	TripAdvisor	0	0	273	~	tripadvisor
+882	Twitter	0	305	67	~	twitter
+883	Urban Outfitters	0	0	275	~	urban_outfitter
+884	Ustream.tv	0	0	68	~	ustream.tv
+885	Vanguard	0	0	134	~	vanguard
+886	vCOM	20060	0	0	vcom	vcom
+887	Vehix	0	0	183	~	vehix
+888	vente-privee.com	0	0	184	~	vente_privee
+889	Veoh	0	0	276	~	veoh
+890	Verizon Email	0	0	69	~	verizon_email
+891	Viadeo	0	0	108	~	viadeo
+892	Victoria's Secret	0	0	185	~	victoria_secret
+893	Vimeo	0	0	277	~	vimeo
+894	VNC	24	34	0	vnc	vnc
+895	RFB	20023	0	0	vnc-server	vnc-server
+898	Docstor	0	0	425	~	docstor
+899	Voyages-sncf.com	0	0	278	~	voyages-sncf
+900	Wachovia	0	0	135	~	wachovia
+901	Walmart	0	0	186	~	walmart
+903	Web Of Trust	0	0	279	~	web_of_trust
+905	WebEx	0	0	70	~	webex
+906	WebSphere MQ	20049	0	0	websphere_mq	websphere_mq
+907	Wells Fargo	0	0	136	~	wells_fargo
+908	wer-kennt-wen	0	0	102	~	wer-kennt-wen
+909	Wget	0	35	0	~	wget
+910	Zynga Poker	0	0	422	~	zynga_poker
+911	Windows Live SkyDrive	0	0	132	~	skydrive
+912	Windows Media Player	0	48	0	~	windows_media_p
+913	WinMX	20099	0	0	winmx	winmx
+914	WiZiQ	0	0	280	~	wiziq
+917	Woot	0	0	188	~	woot
+918	WX	20061	0	0	wx	wx
+919	X font server	20007	0	0	font-service	font-service
+920	9p.com	0	0	421	~	9p.com
+921	Xbox Live	20102	108	0	xbox_live	xbox_live
+922	XING	0	0	100	~	xing
+923	XM Radio Online	0	0	71	~	xm_radio_online
+924	Xunlei	20104	109	0	xunlei	xunlei
+925	XWindows	20098	106	0	x11	x11
+926	Yahoo! Voice	0	65	0	~	yahoo!_voice
+927	Yet ABC	0	66	0	~	yet_abc
+928	Hightail	0	0	73	~	hightail
+929	YouTube	0	297	74	~	youtube
+930	Zales	0	0	189	~	zales
+931	Zappos	0	0	190	~	zappos
+932	Zip.ca	0	0	281	~	zip.ca
+934	FireAMP	20105	110	0	fireamp	fireamp
+936	Yahoo! Messenger	20036	22	0	yahoo_messenger	yahoo_messenger
+937	Googlebot	0	288	0	~	googlebot
+940	Docstoc	0	0	424	~	docstoc
+941	Grooveshark	0	0	1705	~	grooveshark
+942	Yahoo! Slurp	0	337	0	~	yahoo_slurp
+943	Bingbot	0	278	0	~	bingbot
+944	iMesh	0	0	1787	~	imesh
+946	Yahoo! Mail	0	0	18	~	yahoo_mail
+947	Yahoo! Toolbar	0	0	20	~	yahoo_toolbar
+948	4shared	0	0	23	~	4shared
+949	Megaupload	0	0	48	~	megaupload
+950	Salesforce.com	0	0	129	~	salesforce
+951	RitzCamera.com	0	0	170	~	ritzcamera.com
+952	Macy's	0	0	242	~	macys
+953	whois	20024	0	0	whois	whois
+954	echo	20002	0	0	echo	echo
+955	daytime	20003	0	0	daytime	daytime
+956	Ident	20010	0	0	ident	ident
+957	Pando	20194	0	1779	~	pando
+958	TeamViewer	0	0	1637	~	teamviewer
+959	7digital	0	0	291	~	7digital
+960	Avoidr	0	0	292	~	avoidr
+962	Chatroulette	0	0	294	~	chatroulette
+963	Cyworld	0	0	295	~	cyworld
+964	Daum	0	0	296	~	daum
+965	Deezer	0	0	297	~	deezer
+966	DivShare	0	0	298	~	divshare
+967	dl.free.fr	0	0	299	~	dl.free.fr
+970	Evony	0	0	302	~	evony
+971	FileDropper	0	0	303	~	filedropper
+972	Filemail	0	0	304	~	filemail
+973	FileServe	0	0	305	~	fileserve
+974	Licorize	0	0	306	~	licorize
+975	folkd	0	0	307	~	folkd
+976	FORA.tv	0	0	308	~	fora.tv
+977	GMX Mail	0	0	309	~	gmx_mail
+978	GOGOBOX	0	0	310	~	gogobox
+979	CiteULike	0	0	311	~	citeulike
+980	Habbo	0	0	312	~	habbo
+981	Hushmail	0	0	313	~	hushmail
+982	The Hype Machine	0	0	314	~	hype_machine
+983	ifile.it	0	0	315	~	ifile.it
+984	iHeartRadio	0	414	316	~	iheartradio
+985	Issuu	0	0	317	~	issuu
+986	Jamendo	0	0	318	~	jamendo
+987	Jango	0	0	319	~	jango
+988	Justin.tv	0	0	320	~	justin.tv
+989	Kaixin001	0	0	321	~	kaixin001
+991	Livestream	0	0	323	~	livestream
+992	Me2day	0	0	324	~	me2day
+993	Megashare	0	0	325	~	megashare
+994	Megashares	0	0	326	~	megashares
+995	MyDownloader	0	0	327	~	mydownloader
+996	Neopets	0	0	328	~	neopets
+997	Omegle	0	0	329	~	omegle
+999	Mister Wong	0	0	331	~	mister_wong
+1001	ProxEasy	0	0	333	~	proxeasy
+1002	Qriocity	0	0	334	~	qriocity
+1003	RuneScape	0	0	335	~	runescape
+1004	Schmedley	0	0	336	~	schmedley
+1005	Scribd	0	0	337	~	scribd
+1006	Songza	0	0	338	~	songza
+1007	SoundCloud	0	0	339	~	soundcloud
+1010	Suresome	0	0	342	~	suresome
+1011	Surrogafier	0	0	343	~	surrogafier
+1013	Tinychat	0	0	345	~	tinychat
+1014	Tudou	0	0	346	~	tudou
+1015	TransferBigFiles.com	0	0	347	~	transferbigfile
+1016	Tuenti	0	0	348	~	tuenti
+1017	TurboUpload	0	0	349	~	turboupload
+1018	VKontakte	0	0	350	~	vkontakte
+1019	VTunnel	0	0	351	~	vtunnel
+1020	Webhard	0	0	352	~	webhard
+1021	Webshots	0	0	353	~	webshots
+1022	Weibo	0	0	354	~	weibo
+1025	WooMe	0	0	357	~	woome
+1026	Writeboard	0	0	358	~	writeboard
+1027	BigUpload	0	0	359	~	bigupload
+1028	Clarizen	0	0	360	~	clarizen
+1029	Rdio	0	0	361	~	rdio
+1031	56.com	0	0	363	~	56.com
+1032	51.com	0	0	364	~	51.com
+1033	Youku	0	0	365	~	youku
+1034	Crackle	0	0	366	~	crackle
+1035	RuTube	0	0	367	~	rutube
+1037	Afreeca	0	0	369	~	afreeca
+1038	Babelgum	0	0	370	~	babelgum
+1040	Octopz	0	0	372	~	octopz
+1041	MOG	0	0	373	~	mog
+1046	Phanfare	0	0	378	~	phanfare
+1047	we7	0	0	379	~	we7
+1048	FilmOn	0	0	380	~	filmon
+1049	Mibbit	0	0	381	~	mibbit
+1050	BigBlueButton	0	0	382	~	bigbluebutton
+1051	TwitchTV	0	0	383	~	twitchtv
+1052	MegaMeeting	0	0	384	~	megameeting
+1053	Badoo	0	0	385	~	badoo
+1054	DepositFiles	0	0	386	~	depositfiles
+1055	CloudMe	0	0	387	~	cloudme
+1057	Skyrock	0	0	389	~	skyrock
+1060	Jubii	0	0	392	~	jubii
+1061	TotoExpress	0	0	393	~	totoexpress
+1062	Easy-Share	0	0	394	~	easy-share
+1063	TwitPic	0	0	395	~	twitpic
+1064	yfrog	0	0	396	~	yfrog
+1065	Tagged	0	0	397	~	tagged
+1066	hi5	0	0	398	~	hi5
+1067	Livemocha	0	0	399	~	livemocha
+1068	Slacker	0	0	400	~	slacker
+1069	Douban	0	0	401	~	douban
+1070	Odnoklassniki	0	0	402	~	odnoklassniki
+1071	Gaia Online	0	0	403	~	gaia_online
+1072	MyHeritage	0	0	404	~	myheritage
+1073	AutoZone	0	0	405	~	autozone
+1074	Dangdang	0	0	406	~	dangdang
+1075	PC Mall	0	0	407	~	pc_mall
+1076	iCal	0	120	0	~	ical
+1077	Tesco.com	0	0	409	~	tesco.com
+1078	xda-developers	0	0	410	~	xda-developers
+1079	4chan	0	0	411	~	4chan
+1080	NeoGAF	0	0	412	~	neogaf
+1081	Rhapsody	0	0	413	~	rhapsody
+1082	Balatarin	0	0	414	~	balatarin
+1084	Movieclips	0	0	416	~	movieclips
+1085	RDT	20109	0	0	rdt	rdt
+1086	Steam	20113	0	0	steam	steam
+1087	9P	20106	111	0	9p	9p
+1088	MSDP	20111	114	0	msdp	msdp
+1089	RealAudio	20116	118	417	realaudio	realaudio
+1090	TeamSpeak	20110	113	0	teamspeak	teamspeak
+1091	Ventrilo	20112	115	0	ventrilo	ventrilo
+1092	Winamp	20117	112	0	winamp	winamp
+1093	Advanced Packaging Tool	20115	116	0	apt	apt
+1094	iWARP	20114	117	0	iwarp	iwarp
+1095	IPP	20108	0	449	ipp	ipp
+1096	NDMP	20107	0	0	ndmp	ndmp
+1097	rsync	26	0	0	rsync	rsync
+1098	OPC	0	0	0	~	opc
+1105	Windows Update	0	328	0	~	windows_update
+1107	AOL Instant Messenger Netscape	0	0	0	~	aim_netscape
+1108	IMO	0	0	0	~	imo
+1109	PC Connection	0	0	408	~	pc_connection
+1110	ASF	0	0	0	~	asf
+1111	DDM-SSL	20118	0	0	ddm_ssl	ddm_ssl
+1112	SMTPS	20119	0	0	smtps	smtps
+1113	NNTPS	20120	0	0	nntps	nntps
+1114	IMAPS	20121	0	0	imaps	imaps
+1115	SShell	20122	0	0	sshell	sshell
+1116	LDAPS	20123	0	0	ldaps	ldaps
+1117	TELNETS	20124	0	0	telnets	telnets
+1118	IRCS	20125	0	0	ircs	ircs
+1119	POP3S	20126	0	0	pop3s	pop3s
+1120	MS Global Catalog Secure	20127	0	0	msgblcatsec	msgblcatsec
+1121	SF MGMT	20128	0	0	sf_mgmt	sf_mgmt
+1122	HTTPS	20129	0	0	https	https
+1123	Tweet	0	0	418	~	tweet
+1124	Adobe Connect	0	0	419	~	adobe_connect
+1125	BitTornado	0	119	0	~	bittornado
+1129	CafeMom	0	0	427	~	cafemom
+1132	MetaCrawler	0	0	430	~	metacrawler
+1133	Mininova	0	0	431	~	mininova
+1134	PayPal	0	0	432	~	paypal
+1135	Pinterest	0	185	433	~	pinterest
+1136	The Pirate Bay	0	0	434	~	pirate_bay
+1137	Technorati	0	0	435	~	technorati
+1138	Torrentz	0	0	436	~	torrentz
+1139	TypePad	0	0	437	~	typepad
+1140	Hotspot Shield	20133	0	1502	hotspot_shield	hotspot_shield
+1141	Zabbix	20134	0	0	zabbix	zabbix
+1142	Zabbix Trap	20135	0	0	zabbix_trap	zabbix_trap
+1143	WhatsApp	0	0	1689	~	whatsapp
+1144	Munin	20136	0	0	munin	munin
+1145	ASProxy	0	0	0	asproxy	asproxy
+1146	Google Toolbar	0	122	0	~	google_toolbar
+1147	DynGate	0	0	0	~	dyngate
+1148	Pinger	0	0	1595	~	pinger
+1149	Line2	0	0	1529	~	line2
+1156	Hamachi	0	0	0	~	hamachi
+1157	Tetris Battle	0	0	438	~	tetris_battle
+1158	Spotify	0	123	575	~	spotify
+1159	Bubble Witch Saga	0	0	439	~	bubble_witch
+1161	Diamond Dash	0	0	442	~	diamond_dash
+1162	Angry Birds	0	0	443	~	angry_birds
+1163	Words With Friends	0	0	444	~	words_friends
+1164	Castleville	0	0	445	~	castleville
+1166	Cityville	0	0	448	~	cityville
+1167	About.com	0	0	1408	~	about.com
+1168	Answers.com	0	0	1434	~	answers.com
+1169	Classmates	0	0	1466	~	classmates
+1170	CNET	0	0	1140	~	cnet
+1171	CNET Download	0	0	1157	~	cnet_download
+1172	DomainTools	0	0	1540	~	domaintools
+1173	IBM	0	0	1506	~	ibm
+1175	Open Webmail	0	0	1580	~	open_webmail
+1176	SlideShare	0	0	1621	~	slideshare
+1177	Sourceforge	0	0	1628	~	sourceforge
+1178	SurveyMonkey	0	0	1633	~	surveymonkey
+1180	w3schools.com	0	0	1712	~	w3schools.com
+1181	Weebly	0	0	1716	~	weebly
+1183	Google Maps	0	0	1780	~	google_maps
+1185	Apple sites	0	0	1105	~	apple_sites
+1187	iCloud	0	0	691	~	icloud
+1189	PCoIP	0	0	0	~	pcoip
+1190	CNN.com	0	0	450	~	cnn
+1191	IMDB	0	0	451	~	imdb
+1192	NBC News	0	0	452	~	nbc_news
+1193	Mint.com	0	0	453	~	mint
+1194	Apple Trailers	0	0	454	~	apple_trailers
+1195	Dictionary.com	0	0	455	~	dictionary
+1196	Bild.de	0	0	456	~	bild.de
+1197	Bing Maps	0	0	457	~	bing_maps
+1198	Google Finance	0	0	458	~	google_finance
+1205	12306.cn	0	0	1399	~	12306.cn
+1206	126.com	0	0	1400	~	126.com
+1207	39.net	0	0	1406	~	39.net
+1208	Aizhan	0	0	1432	~	aizhan
+1209	Bet365	0	0	1451	~	bet365
+1210	Brothersoft	0	0	1457	~	brothersoft
+1211	Brighttalk	0	0	1455	~	brighttalk
+1212	Enet	0	0	1549	~	enet
+1213	Envato	0	0	1547	~	envato
+1214	ExtraTorrent	0	0	1352	~	extratorrent
+1215	Glype Proxy	0	0	1781	~	glype_proxy
+1216	goo.ne.jp	0	0	1720	~	goo.ne.jp
+1217	Image Venue	0	0	1511	~	image_venue
+1218	KAT	0	0	1710	~	kat
+1219	Leboncoin	0	0	1525	~	leboncoin
+1220	Multiupload	0	0	1708	~	multiupload
+1221	MSN2Go	0	0	1707	~	msn2go
+1222	Netease	0	0	1570	~	netease
+1223	Online File Folder	0	0	1579	~	online_file_fol
+1224	Putlocker	0	0	1034	~	putlocker
+1225	Raging Bull	0	0	1605	~	raging_bull
+1226	Soku	0	0	1626	~	soku
+1227	Theme Forest	0	0	1767	~	theme_forest
+1228	Webs	0	0	1728	~	webs
+1229	Bejeweled Chrome Extension	0	0	459	~	bejeweled_chrom
+1230	Google Play Books	0	0	460	~	gplay_books
+1231	Google Play Music	0	0	461	~	gplay_music
+1232	Google Reader	0	246	462	~	google_reader
+1233	Instagram	0	124	463	~	instagram
+1234	DoubleDownCasino	0	0	464	~	doubledowncasin
+1236	Family Tree	0	0	466	~	family_tree
+1237	Playdom	0	0	467	~	playdom
+1238	iAstrology	0	0	468	~	iastrology
+1239	Social Empires	0	0	469	~	social_empires
+1240	Mesmo Games	0	0	470	~	mesmo_games
+1241	Daily Horoscope	0	0	471	~	daily_horoscope
+1243	Slotomania	0	0	473	~	slotomania
+1244	Bubble Saga	0	0	474	~	bubble_saga
+1245	Pool Live	0	0	475	~	pool_live
+1247	Monster World	0	0	477	~	monster_world
+1248	21 Questions	0	0	478	~	21_questions
+1250	BranchOut	0	0	480	~	branchout
+1252	Bejeweled Blitz	0	0	482	~	bejeweled_blitz
+1253	Washington Post Social Reader	0	0	483	~	washington_post
+1254	Bubble Island	0	0	484	~	bubble_island
+1256	4399.com	0	0	1407	~	4399.com
+1257	AdF.ly	0	0	1412	~	adf.ly
+1258	Admin5	0	0	1417	~	admin5
+1259	Bloomberg	0	0	1392	~	bloomberg
+1260	Datei.to	0	0	1484	~	datei.to
+1261	Mozilla	0	0	1565	~	mozilla
+1262	Wretch	0	0	1714	~	wretch
+1263	Y8	0	0	1727	~	y8
+1264	Avast	0	130	888	~	avast
+1265	Allmyapps	0	131	0	~	allmyapps
+1267	Evernote	0	133	0	~	evernote
+1280	Seamonkey	0	147	0	~	seamonkey
+1282	Facebook search	0	0	841	~	fb_search
+1283	Facebook event	0	0	842	~	fb_event
+1284	Facebook post	0	0	843	~	fb_post
+1285	Facebook video chat	0	0	844	~	fb_video_chat
+1286	Facebook message	0	0	845	~	fb_message
+1287	Facebook video	0	0	846	~	fb_video
+1288	Opera	0	149	0	~	opera
+1290	AdobeAIR	0	151	0	~	adobeair
+1296	SSL client	0	0	0	~	ssl_client
+1299	The New York Times	0	0	487	~	nytimes
+1300	Twitter Link Service	0	0	488	~	twitter_link
+1301	Yahoo! Finance	0	0	489	~	yahoo_finance
+1302	Silverlight	0	0	490	~	silverlight
+1303	Isoball	0	0	491	~	isoball
+1304	GO.com	0	0	492	~	go.com
+1305	OnLive	0	0	493	~	onlive
+1306	Ad Advisor	0	0	494	~	ad_advisor
+1307	Ad Mob	0	0	495	~	ad_mob
+1308	Ad Marvel	0	0	496	~	ad_marvel
+1309	Naver	0	384	497	~	naver
+1310	Advertising.com	0	0	498	~	advertising
+1312	Burstly	0	0	500	~	burstly
+1313	Doubleclick	0	0	501	~	doubleclick
+1314	Ad Nexus	0	0	502	~	ad_nexus
+1315	Pubmatic	0	0	503	~	pubmatic
+1316	Pulse360	0	0	504	~	pulse360
+1317	Kanoodle	0	0	505	~	kanoodle
+1318	Greystripe	0	0	506	~	greystripe
+1319	iAd	0	0	507	~	iad
+1322	Acrobat.com	0	0	906	~	acrobat.com
+1326	Box	0	0	217	~	box
+1327	Pandora TV	0	0	839	~	pandora_tv
+1332	CBS	0	0	980	~	cbs
+1335	USA Today	0	0	1108	~	usa_today
+1336	Microsoft Ads	0	0	508	~	microsoft_ads
+1337	Millennial Media	0	0	509	~	millen_media
+1338	Weather Underground	0	0	510	~	weather_undrgrd
+1340	Clubbox	0	0	512	~	clubbox
+1341	Kiwoom	0	0	513	~	kiwoom
+1342	DCinside	0	0	514	~	dcinside
+1343	Nate	0	0	515	~	nate
+1344	Fileguri	0	0	516	~	fileguri
+1345	Baidu	0	0	517	~	baidu
+1346	Babylon	0	0	518	~	babylon
+1357	Samsung	0	0	1046	~	samsung
+1360	TweetDeck	0	0	522	~	tweetdeck
+1361	CanvasRider	0	0	523	~	canvasrider
+1362	ZEDO	0	0	524	~	zedo
+1363	eHow	0	0	525	~	ehow
+1364	ESPN	0	0	526	~	espn
+1365	Comcast	0	0	527	~	comcast
+1366	Fox News	0	0	528	~	foxnews
+1367	Weather.com	0	251	529	~	weather.com
+1368	Weather.gov	0	0	530	~	weather.gov
+1369	Outbrain	0	0	531	~	outbrain
+1370	The Huffington Post	0	0	532	~	huffington_post
+1371	Ask.com	0	0	533	~	ask.com
+1372	OptMD	0	0	534	~	optmd
+1373	GoDaddy	0	0	535	~	godaddy
+1374	Etsy	0	0	536	~	etsy
+1375	Conduit	0	0	537	~	conduit
+1376	BBC	0	0	538	~	bbc
+1378	Indeed	0	0	540	~	indeed
+1379	Publishers Clearing House	0	0	541	~	pub_clear_house
+1380	AT&T	0	0	542	~	at&t
+1381	Aweber	0	0	543	~	aweber
+1382	Fox Sports	0	0	544	~	fox_sports
+1383	Searchnu	0	0	545	~	searchnu
+1384	Search-Result.com	0	0	546	~	search-result
+1385	Official Major League Baseball	0	0	547	~	mlb
+1386	RoadRunner	0	0	548	~	roadrunner
+1387	Drudge Report	0	0	549	~	drudge_report
+1388	Verizon Wireless	0	0	550	~	verizon_wireles
+1389	ABC	0	248	551	~	abc
+1390	Wall Street Journal	0	0	552	~	wsj
+1391	Daily Mail	0	0	553	~	daily_mail
+1392	Amazon Web Services	0	0	554	~	aws
+1393	CloudFront	0	0	555	~	cloudfront
+1398	Sourcefire.com	0	0	560	~	sourcefire
+1399	Taobao	0	0	561	~	taobao
+1400	Planetarium	0	0	562	~	planetarium
+1401	Engadget	0	158	563	~	engadget
+1402	Flipboard	0	159	564	~	flipboard
+1403	TED	0	160	565	~	ted
+1405	KakaoTalk	0	162	1071	~	kakaotalk
+1406	Flurry Analytics	0	0	566	~	flurry_analytic
+1407	Apple Stocks	0	163	0	~	apple_stocks
+1408	Ubuntu Software Center	0	0	567	~	ubuntu_software
+1409	Ubuntu Update Manager	0	0	568	~	ubuntu_update_m
+1411	Python-httplib	0	166	0	~	python-httplib
+1412	Eclipse Updates	0	0	569	~	eclipse_updates
+1413	Eclipse	0	167	907	~	eclipse
+1414	Eclipse Marketplace	0	0	570	~	eclipse_marketp
+1415	Apple Mobile Yahoo API	0	0	571	~	apple_yahoo_api
+1416	Weather	0	168	0	~	weather
+1417	NASA	0	0	572	~	nasa
+1418	NATO	0	0	573	~	nato
+1419	AOL	0	0	574	~	aol
+1420	NOAA	0	0	576	~	noaa
+1421	WeatherBug	0	169	577	~	weatherbug
+1422	FC2	0	0	578	~	fc2
+1423	Microsoft	0	0	579	~	microsoft
+1424	Google Adsense	0	0	580	~	google_adsense
+1425	AdNetwork.net	0	0	581	~	adnetwork.net
+1426	Localytics	0	0	582	~	localytics
+1427	Nokia Maps	0	0	583	~	nokia_maps
+1428	SymantecUpdates	0	293	584	~	symantecupdates
+1429	Wolfram Alpha	0	171	585	~	wolfram_alpha
+1430	Libwww-Perl	0	170	0	~	libwww-perl
+1431	Norton AntiVirus	0	172	0	~	norton_av
+1440	FastCGI	20137	181	0	fast_cgi	fast_cgi
+1441	TPNCP	20138	0	0	tpncp	tpncp
+1449	Kuaibo	0	0	586	~	kuaibo
+1450	SMPP	20139	0	0	smpp	smpp
+1451	Kismet	20140	0	0	kismet	kismet
+1456	Sports Illustrated	0	0	710	~	sports_illus
+1457	CPX Interactive	0	0	711	~	cpx_interactive
+1458	VeriSign	0	0	712	~	verisign
+1459	CBS Sports	0	0	713	~	cbs_sports
+1460	Chartbeat	0	0	714	~	chartbeat
+1461	InsightExpress	0	0	715	~	insightexpress
+1480	Zillow	0	0	720	~	zillow
+1481	Monster.com	0	0	721	~	monster
+1482	MapQuest	0	0	722	~	mapquest
+1483	Swagbucks	0	0	723	~	swagbucks
+1484	Verizon	0	0	724	~	verizon
+1485	Wikia	0	0	725	~	wikia
+1486	TMZ	0	0	726	~	tmz
+1487	ShopAtHome	0	0	727	~	shopathome
+1488	Asia Times Online	0	0	728	~	asia_times_onli
+1489	HootSuite	0	0	729	~	hootsuite
+1490	Coupons.com	0	0	730	~	coupons
+1491	CareerBuilder.com	0	0	731	~	careerbuilder
+1492	Commission Junction	0	0	732	~	commission_junc
+1493	Fiverr	0	0	733	~	fiverr
+1494	Backpage.com	0	0	734	~	backpage
+1495	LivingSocial	0	0	735	~	livingsocial
+1496	AllRecipes	0	0	736	~	allrecipes
+1497	Yellow Pages	0	0	737	~	yellow_pages
+1498	Bleacher Report	0	0	738	~	bleacher_report
+1499	Stack Overflow	0	0	739	~	stack_overflow
+1500	U.S.Bank	0	0	740	~	usbank
+1501	Ancestry.com	0	0	741	~	ancestry
+1502	WebMD	0	0	742	~	webmd
+1503	Trulia	0	0	743	~	trulia
+1504	Slickdeals	0	0	744	~	slickdeals
+1505	Business Insider	0	0	745	~	business_inside
+1506	People.com	0	0	746	~	people
+1507	Reuters	0	0	747	~	reuters
+1508	BuzzFeed	0	0	748	~	buzzfeed
+1509	California.gov	0	0	749	~	california.gov
+1510	Southwest Airlines	0	0	750	~	southwest_airli
+1511	NIH	0	0	751	~	nih
+1512	WhitePages Inc	0	0	752	~	whitepages
+1513	MGID	0	0	753	~	mgid
+1514	EarthLink	0	0	754	~	earthlink
+1515	Disney	0	0	755	~	disney
+1516	POLITICO.com	0	0	756	~	politico
+1517	NY Daily News	0	0	757	~	ny_daily_news
+1518	Examiner.com	0	0	758	~	examiner
+1519	RetailMeNot	0	0	759	~	retailmenot
+1520	AddThis	0	0	760	~	addthis
+1521	StatCounter	0	0	761	~	statcounter
+1522	OkCupid	0	0	762	~	okcupid
+1523	Patch.com	0	0	763	~	patch
+1524	Legacy.com	0	0	764	~	legacy
+1525	Realtor.com	0	0	765	~	realtor
+1526	Intuit	0	0	766	~	intuit
+1527	The Blaze	0	0	767	~	the_blaze
+1528	HostGator	0	0	768	~	hostgator
+1529	Food Network	0	0	769	~	food_network
+1530	ClickBank	0	0	770	~	clickbank
+1531	Cox	0	0	771	~	cox
+1532	Mashable	0	0	772	~	mashable
+1533	AccuWeather	0	0	773	~	accuweather
+1534	Sprint	0	0	774	~	sprint
+1535	Goodreads	0	0	775	~	goodreads
+1536	LiveStrong.com	0	0	776	~	livestrong
+1537	RealClearPolitics	0	0	777	~	realclearpoliti
+1538	Manta	0	0	778	~	manta
+1539	Empower Network	0	0	779	~	empower_network
+1540	CNBC	0	0	780	~	cnbc
+1541	Widget Media	0	0	781	~	widget_media
+1542	Inbox.com	0	0	782	~	inbox
+1543	Shutterfly	0	0	783	~	shutterfly
+1544	Neteller	0	0	784	~	neteller
+1545	T Mobile	0	0	785	~	t_mobile
+1546	Walgreens	0	0	786	~	walgreens
+1547	WorldstarHipHop	0	0	787	~	worldstarhiphop
+1548	NPR	0	0	788	~	npr
+1549	Kayak	0	0	789	~	kayak
+1550	ToysRUs	0	0	790	~	toysrus
+1551	Mail.Ru	0	0	791	~	mail.ru
+1552	Sohu.com	0	0	792	~	sohu.com
+1553	1&1 Internet	0	0	793	~	1n1_internet
+1554	Ameba	0	0	794	~	ameba
+1555	Avaya	0	0	795	~	avaya
+1556	Axifile	0	0	796	~	axifile
+1557	Snort.org	0	0	797	~	snort
+1558	Disqus	0	0	798	~	disqus
+1559	Infusionsoft	0	0	799	~	infusionsoft
+1560	IMRWorldWide	0	0	800	~	imrworldwide
+1561	Alisoft	0	0	801	~	alisoft
+1562	Salesforce.com Live Agent	0	0	802	~	sales_liveagent
+1565	QVOD	20141	186	805	~	qvod
+1567	Fab.com	0	0	806	~	fab.com
+1568	Square Inc.	0	0	807	~	square
+1569	Java Update	0	187	0	~	java_update
+1570	Xlite SIP Client	0	0	0	~	xlite_sip_clien
+1571	X-PRO SIP Client	0	0	0	~	x-pro_sip_clien
+1572	Nero SIP Client	0	0	0	~	nero_sip_client
+1573	ClearSea SIP Client	0	0	0	~	clearsea_sip_cl
+1575	Dooble	0	189	0	~	dooble
+1576	Lynx	0	192	0	~	lynx
+1578	Epiphany	0	191	0	~	epiphany
+1579	Chimera2	0	190	0	~	chimera2
+1581	Links	0	197	0	~	links
+1582	Midori	0	196	0	~	midori
+1583	NetSurf	0	195	0	~	netsurf
+1584	rekonq	0	193	0	~	rekonq
+1585	wApua	0	194	0	~	wapua
+1589	Comodo Dragon	0	203	0	~	comodo_dragon
+1592	PaleMoon	0	206	0	~	palemoon
+1593	Wyzo	0	207	0	~	wyzo
+1596	Apple Developer	0	0	692	~	apple_developer
+1598	GoToMyPC	0	0	873	~	gotomypc
+1599	King.com	0	0	937	~	king.com
+1601	USPS	0	0	1127	~	usps
+1602	Xcode	0	233	0	~	xcode
+1604	Bria	0	0	0	~	bria
+1605	sipXecs	0	0	0	~	sipxecs
+1606	Linphone	0	0	0	~	linphone
+1607	OpenSIPS	0	0	0	~	opensips
+1608	TextMe	0	0	0	~	textme
+1609	FreeSWITCH	0	0	0	~	freeswitch
+1610	Asterisk PBX	0	0	0	~	asterisk_pbx
+1611	textPlus	0	223	0	~	textplus
+1612	Cisco SIP Gateway	0	0	0	~	cisco_sip_gatew
+1613	Nuance Voice Platform	0	0	0	~	nuance_voice_pl
+1614	Shutterstock	0	0	808	~	shutterstock
+1615	Aili	0	0	809	~	aili
+1616	Yandex	0	0	810	~	yandex
+1617	Adcash	0	0	811	~	adcash
+1618	The Guardian	0	0	812	~	the_guardian
+1619	Yieldmanager	0	0	862	~	yieldmanager
+1620	The Telegraph	0	0	813	~	the_telegraph
+1621	Livedoor	0	0	814	~	livedoor
+1622	WarriorForum	0	0	815	~	warriorforum
+1623	Indiatimes	0	0	816	~	indiatimes
+1624	Rediff.com	0	0	817	~	rediff.com
+1625	Spiegel Online	0	0	818	~	spiegel_online
+1626	UOL	0	0	819	~	uol
+1627	Jingdong (360buy.com)	0	0	820	~	jingdong
+1628	The Xinhuanet	0	0	821	~	xinhuanet
+1630	ShowMyPC	0	0	1615	~	showmypc
+1646	CSDN	0	0	822	~	csdn
+1647	Taringa	0	0	823	~	taringa
+1648	Aliexpress	0	0	824	~	aliexpress
+1649	58 City	0	0	825	~	58_city
+1650	LeTV	0	0	826	~	letv
+1651	Tianya	0	0	827	~	tianya
+1652	Rakuten	0	0	828	~	rakuten
+1653	Snapchat	0	188	0	~	snapchat
+1654	500px	0	0	829	~	500px
+1656	Invitemedia	0	0	830	~	invitemedia
+1657	Urban Airship	0	0	835	~	urban_airship
+1659	Akamai	0	0	837	~	akamai
+1660	Loyalty Innovations	0	0	838	~	loyalty_innovat
+1662	DirBuster	0	208	0	~	dirbuster
+1663	YY	20143	209	1693	~	yy
+1664	Dwolla	0	0	848	~	dwolla
+1665	Google Remote Desktop	0	0	0	~	google_remote_d
+1666	Magicland	0	0	853	~	magicland
+1667	LINE	0	210	1528	~	line
+1668	Fancy	0	0	854	~	fancy
+1670	GitHub	0	0	855	~	github
+1671	Trend Micro	0	0	856	~	trend_micro
+1672	Ogg	0	0	0	~	ogg
+1673	WebM	0	0	0	~	webm
+1675	QualysGuard	0	0	858	~	qualysguard
+1676	Flexera Software	0	211	859	~	flexera_soft
+1677	OsiriX	0	212	860	~	osirix
+1678	PACS	20144	0	0	pacs	pacs
+1679	DICOM	0	213	0	~	dicom
+1680	Mac App Store	0	214	0	~	mac_app_store
+1681	AirPlay	0	215	0	~	airplay
+1682	AirTunes	20145	0	0	airtunes	airtunes
+1683	Apple TV	0	216	0	~	apple_tv
+1692	Java	0	217	0	~	java
+1695	SOUNDROP	0	0	861	~	soundrop
+1699	Android Client	0	220	0	~	android_client
+1700	Vine	0	221	867	~	vine
+1702	MyLife	0	0	863	~	mylife
+1703	Ning	0	0	864	~	ning
+1704	Gravatar	0	0	865	~	gravatar
+1705	Kickstarter	0	0	866	~	kickstarter
+1707	Linux Mint	0	0	869	~	linux_mint
+1709	The Washington Post	0	0	871	~	washpost
+1711	Pandora Audio	0	0	559	~	pandora_audio
+1719	Elinks	0	198	0	~	elinks
+1754	Playstation.com	0	0	880	~	Playstation
+1755	MDNS	20146	0	0	mdns	mdns
+1756	VLC Media Player	0	224	874	~	vlc_media_play
+1757	Raptr	0	225	875	~	raptr
+1758	UPnP	0	284	0	~	upnp
+1759	AIM Express	0	0	878	~	aim_express
+1760	Silk	0	283	0	~	silk
+1761	PS3 web browser	0	285	0	~	ps3_web_browser
+1763	PS3 Messenger	0	226	0	~	ps3_messenger
+1764	Playstation Store	0	0	877	~	ps_store
+1765	PS3 Downloads	0	0	876	~	ps3_downloads
+1766	PS3 Updater	0	227	0	~	ps3_updater
+1767	PS3 Home Client	0	228	0	~	ps3_home_client
+1769	Nokia	0	0	881	~	nokia
+1770	Nokia Music	0	0	882	~	nokia_music
+1771	Nokia Store	0	0	883	~	nokia_store
+1772	PBS	0	0	884	~	pbs
+1774	ArtStack	0	0	885	~	artstack
+1775	TRUSTe	0	0	886	~	truste
+1776	DoubleVerify	0	0	887	~	doubleverify
+1777	WSDD	20167	230	0	wsdd	wsdd
+1779	FDSSDP	0	231	0	~	fdssdp
+1780	Exchange	0	484	1692	~	exchange
+1781	2Leep	0	0	889	~	2leep
+1782	Bizrate	0	0	890	~	bizrate
+1783	People Of Walmart	0	0	891	~	people_walmart
+1784	Cute Overload	0	0	892	~	cute_overload
+1785	Cheezburger	0	0	893	~	cheezburger
+1787	Pop Salad	0	0	895	~	pop_salad
+1788	theCHIVE	0	296	896	~	thechive
+1789	TruuConfessions	0	0	897	~	truuconfessions
+1790	ZergNet	0	0	898	~	zergnet
+1791	WhereCoolThingsHappen	0	0	899	~	wherecoolthings
+1792	H&R Block	0	0	900	~	hr_block
+1793	Constant Contact	0	0	901	~	const_contact
+1794	Pivotal Tracker	0	0	902	~	pivotal_tracker
+1795	Tempo	0	232	903	~	tempo
+1796	Podio	0	0	905	~	podio
+1797	LivePerson	0	0	908	~	liveperson
+1798	Mention	0	0	909	~	mention
+1799	Feedly	0	0	910	~	feedly
+1800	IPFIX	20147	0	0	ipfix	ipfix
+1802	Minecraft	20192	469	911	minecraft	minecraft
+1803	Rotten Tomatoes	0	0	912	~	rotten_tomatoes
+1804	Amazon Ads System	0	0	913	~	amazon_ad_sys
+1805	MTv	0	0	914	~	mtv
+1806	Tightrope Interactive	0	234	915	~	tightrope
+1808	Glympse	0	0	916	~	glympse
+1809	Honeywell Control Station/NIF Server	20148	0	0	honeywell	honeywell
+1810	TuneIn	0	235	917	~	tunein
+1811	Honeywell Experion DSA Server Monitor	20149	0	0	experion	experion
+1812	Backupgrid	0	0	919	~	backupgrid
+1813	Carbonite	0	236	920	~	carbonite
+1814	iBackup	0	0	924	~	ibackup
+1815	JustCloud	0	0	921	~	justcloud
+1816	jdistatic	0	0	922	~	jdistatic
+1817	MyPCBackup	0	0	923	~	mypcbackup
+1818	SOS Online Backup	0	0	936	~	sos_online_back
+1819	SugarSync	0	0	925	~	sugarsync
+1820	ZipCloud	0	0	926	~	zipcloud
+1822	PubNub	0	0	927	~	pubnub
+1824	Wii Shop Channel	0	0	929	~	wii_shop
+1826	Nintendo WFC	0	0	931	~	nintendo_wfc
+1827	FiOS TV	0	238	932	~	fios_tv
+1829	Vdio	0	0	933	~	vdio
+1830	Redbox	0	0	934	~	redbox
+1831	Google Fiber	0	0	935	~	google_fiber
+1939	NBA	0	0	1078	~	nba
+1955	Reduxmedia	0	0	1107	~	reduxmedia
+1988	NBC	0	0	938	~	nbc
+1989	RedOrbit	0	0	939	~	redorbit
+1990	Space.com	0	0	940	~	space
+1991	SockShare	0	0	941	~	sockshare
+1992	BitGravity	0	0	942	~	bitgravity
+1993	PixelMags	0	0	943	~	pixelmags
+1994	Zmags	0	0	944	~	zmags
+1995	GNOME	0	0	945	~	gnome
+1996	ESTsoft	0	0	946	~	estsoft
+1997	Cabal Online	0	0	947	~	cabal_online
+1998	ALTools	0	0	948	~	altools
+1999	GIFSoup.com	0	0	949	~	gifsoup
+2000	Slate Magazine	0	0	950	~	slate_magazine
+2001	I Waste So Much Time	0	0	951	~	i_waste_so_much
+2002	Biography.com	0	0	952	~	biography
+2003	Ubuntu	0	0	953	~	ubuntu
+2004	Comedy Central	0	0	954	~	comedy_central
+2005	Wired.com	0	0	955	~	wired
+2006	E! Online	0	0	956	~	e_online
+2007	NHL.com	0	0	957	~	nhl.com
+2008	Presto	0	0	958	~	presto
+2009	Twitter Music	0	243	0	~	twitter_music
+2010	MacPorts	0	244	960	~	macports
+2011	Philips Hue	0	245	961	~	philips_hue
+2012	Baiduspider	0	247	0	~	baiduspider
+2013	K9 Web Protection	0	249	962	~	k8_web_protect
+2014	Bing Bar	0	250	0	~	bing_bar
+2015	Redbox Instant	0	0	963	~	redbox_instant
+2016	TopTenREVIEWS	0	0	964	~	toptenreviews
+2017	Adweek	0	0	965	~	adweek
+2018	The Week Magazine	0	0	966	~	the_week
+2019	Brightcove	0	0	967	~	brightcove
+2020	Newser	0	0	968	~	newser
+2021	Simpli.fi	0	0	969	~	simpli.fi
+2032	Google Code project hosting	0	0	971	~	google_code
+2033	Windows Help client	0	252	0	~	win_help_client
+2034	Roku	0	253	972	~	roku
+2035	TURN Client	0	255	0	~	turn_client
+2036	TURN Channel	20150	0	0	turn	turn
+2037	Splunk	0	256	0	~	splunk
+2038	Atlassian	0	0	973	~	atlassian
+2040	Prezi	0	0	974	~	prezi
+2041	IFTTT	0	0	975	~	ifttt
+2042	OPC-UA	20151	0	0	opcua	opcua
+2043	NetWorker	20152	257	0	networker	networker
+2044	NetWorker Data Setup	0	258	0	~	network_setup
+2045	Apple iForgot	0	0	976	~	apple_iforgot
+2047	JBoss Remoting	0	259	978	~	jboss_remoting
+2048	Fink	0	260	979	~	fink
+2049	Photo Stream	0	261	0	~	photo_stream
+2050	FOX	0	0	981	~	fox
+2051	Washington Times	0	0	982	~	washtimes
+2052	NextBus	0	0	983	~	nextbus
+2053	OpenBSD	0	0	984	~	openbsd
+2054	Associated Press	0	0	985	~	assoc_press
+2055	WTOP	0	0	986	~	wtop
+2056	OpenSUSE	0	0	987	~	opensuse
+2057	Turner Broadcasting System	0	0	988	~	turner_broadcst
+2058	NCAA	0	0	989	~	ncaa
+2059	DSW	0	0	991	~	dsw
+2060	Po.st	0	0	992	~	po.st
+2061	CheapStuff	0	0	993	~	cheapstuff
+2062	Livefyre	0	0	994	~	livefyre
+2063	FreeStreams	0	0	995	~	freestreams
+2064	Clear Channel	0	0	996	~	clear_channel
+2065	GOLF.com	0	0	997	~	golf
+2066	Glam	0	0	998	~	glam
+2067	BoldChat	0	0	999	~	boldchat
+2068	Intermarkets	0	0	1000	~	intermarkets
+2069	Woopra	0	0	1001	~	woopra
+2070	OCLC	0	0	1002	~	oclc
+2071	Chosun	0	0	1003	~	chosun
+2072	Ooyala	0	0	1004	~	ooyala
+2074	C-SPAN	0	0	1005	~	c-span
+2082	Game Front	0	0	1006	~	game_front
+2083	BitCoin	20154	263	1007	bitcoin	bitcoin
+2084	LiteCoin	20155	264	1008	litecoin	litecoin
+2086	lynda.com	0	0	1010	~	lynda
+2087	IDXRad	0	265	0	~	idxrad
+2088	PScribe	0	266	0	~	pscribe
+2089	Sunquest	0	267	0	~	sunquest
+2090	Medipac	0	268	0	~	medipac
+2091	Letterpress	0	269	1011	~	letterpress
+2092	Game Center	0	270	1012	~	game_center
+2093	FriendFinder	0	0	1013	~	friendfinder
+2094	Audible.com	0	0	1014	~	audible
+2095	Entertainment Weekly	0	0	1015	~	entert_weekly
+2096	Epic	0	272	0	~	epic
+2097	UPMC	0	273	0	~	upmc
+2102	Docstoc Upload	0	0	1016	~	docstoc_upload
+2103	Speedtest	0	0	1017	~	speedtest
+2104	Boxnet Upload SSL	0	0	1018	~	boxnet_upload
+2105	Flickr Upload	0	0	1019	~	flickr_upload
+2106	Scribd Upload	0	0	1020	~	scribd_upload
+2107	Youtube Upload	0	0	1021	~	youtube_upload
+2110	Voxer	0	274	1024	~	voxer
+2111	Windows Azure	0	0	1025	~	windows_azure
+2112	Starbucks	0	276	1026	~	starbucks
+2113	iTunes Music	0	277	0	~	itunes_music
+2116	Adblade	0	0	1027	~	adblade
+2118	BackWeb	0	0	1029	~	backweb
+2119	Blackberry sites	0	0	1030	~	blackberry_site
+2120	Djpod	0	0	1031	~	djpod
+2121	Microsoft download	0	0	1032	~	ms_download
+2122	Microsoft AutoUpdate	0	279	0	~	ms_autoupdate
+2123	MyOnlineArcade	0	0	1033	~	myonlinearcade
+2124	SmugMug	0	0	1035	~	smugmug
+2126	USAA	0	0	1037	~	usaa
+2127	wimp.com	0	0	1038	~	wimp
+2128	Zendesk	0	0	1039	~	zendesk
+2129	Auditude	0	0	1040	~	auditude
+2130	Show My Weather	0	0	1041	~	show_my_weather
+2131	MobiTV	0	0	1042	~	mobitv
+2132	TV Guide	0	0	1043	~	tv_guide
+2133	iFunny	0	301	1044	~	ifunny
+2134	Telenav	0	0	1045	~	telenav
+2135	Vlingo	0	0	1047	~	vlingo
+2136	Media Hub	0	0	1048	~	media_hub
+2137	CheapOAir	0	0	1049	~	cheapoair
+2138	Crunchyroll	0	0	1050	~	crunchyroll
+2139	Eventbrite	0	0	1051	~	eventbrite
+2140	J.P. Morgan	0	0	1261	~	jpmorgan
+2142	Path	0	0	1053	~	path
+2143	Intel	0	0	1054	~	intel
+2144	AMD	0	0	1055	~	amd
+2145	Asus	0	0	1056	~	asus
+2146	Acer	0	0	1057	~	acer
+2147	Gateway	0	0	1058	~	gateway
+2148	Toshiba	0	0	1059	~	toshiba
+2149	Motorola	0	0	1060	~	motorola
+2150	Nvidia	0	0	1061	~	nvidia
+2151	Channel Intelligence	0	0	1062	~	channel_intel
+2152	Progressive	0	0	1063	~	progressive
+2153	State Farm	0	0	1064	~	state_farm
+2154	Allstate	0	0	1065	~	allstate
+2155	Geico	0	0	1066	~	geico
+2156	Liberty Mutual	0	0	1067	~	liberty_mutual
+2157	Ensighten	0	0	1068	~	ensighten
+2158	Maxymiser	0	0	1069	~	maxymiser
+2159	News Distribution Network	0	0	1070	~	new_dist_nw
+2160	Jetsetz	0	0	1072	~	jetsetz
+2161	StudentUniverse	0	0	1073	~	studentuniverse
+2162	PerfectIBE	0	0	1074	~	perfectibe
+2163	Funny or Die	0	0	1075	~	funny_or_die
+2164	CollegeHumor	0	0	1076	~	collegehumor
+2165	Zombo.com	0	0	1077	~	zombo
+2170	NovaMov	0	0	1079	~	novamov
+2171	Viki	0	0	1080	~	viki
+2172	PNC Bank	0	0	1081	~	pnc_bank
+2173	Red Hat	0	0	1082	~	red_hat
+2174	United Airlines	0	0	1083	~	united_airlines
+2176	TextNow	0	0	1085	~	textnow
+2177	FedEx	0	0	1086	~	fedex
+2178	American Airlines	0	0	1087	~	american_airlin
+2179	Nuance	0	0	1088	~	nuance
+2180	Al Jazeera	0	0	1089	~	al_jazeera
+2181	Wimbledon	0	0	1090	~	wimbledon
+2182	MLive	0	0	1091	~	mlive
+2183	Times Union	0	0	1092	~	times_union
+2184	beRecruited	0	0	1093	~	berecruited
+2185	Bitbucket	0	0	1094	~	bitbucket
+2186	Detroit Free Press	0	0	1095	~	detroit_press
+2187	jJcast	0	0	1096	~	jjcast
+2188	Michigan Radio	0	0	1097	~	michigan_radio
+2189	De Telegraaf	0	0	1098	~	de_telegraaf
+2190	ooVoo	0	0	1099	~	oovoo
+2191	The Daily Beast	0	0	1100	~	daily_beast
+2192	The Free Dictionary	0	0	1101	~	free_dict
+2193	The Onion	0	0	1102	~	the_onion
+2195	WeatherLink	0	0	1103	~	weatherlink
+2196	Yahoo! Calendar	0	0	1104	~	yahoo_calendar
+2197	GVFS	0	281	0	~	gvfs
+2198	Yammer	0	282	1106	~	yammer
+2202	ksfetch	0	286	0	~	ksfetch
+2203	Google Update	0	287	0	~	google_update
+2204	Googlebot Image Search	0	289	0	~	googlebot_image
+2205	Abonti	0	291	0	~	abonti
+2206	Zapier	0	292	1109	~	zapier
+2207	Collider	0	0	1110	~	collider
+2208	WordReference.com	0	0	1111	~	wordreference
+2209	Microsoft Word	0	294	0	~	msoffice_word
+2210	Microsoft Powerpoint	0	295	0	~	msoffice_power
+2211	Yandex Bot	0	299	0	~	yandex_bot
+2212	MJ12 Bot	0	302	0	~	mj12_bot
+2213	Microsoft CryptoAPI	0	303	0	~	ms_cryptoapi
+2214	FrostWire	0	306	1112	~	frostwire
+2215	Media Stream Daemon	0	307	0	~	media_stream
+2217	OCSPD	0	309	0	~	ocspd
+2218	5by5 Radio	0	310	1113	~	5by5_radio
+2219	Acoon.de	0	311	1114	~	acoon.de
+2220	Anipang	0	312	0	~	anipang
+2221	Apple PubSub	0	313	0	~	apple_pubsub
+2222	ArcGIS	0	314	1115	~	arcgis
+2223	Blekko	0	0	1116	~	blekko
+2224	BlekkoBot	0	315	0	~	blekkobot
+2225	Boingo	0	316	1117	~	boingo
+2226	Easou Spider	0	317	0	~	easou_spider
+2227	FeedBurner	0	318	0	~	feedburner
+2228	Feedly Fetcher	0	319	0	~	feedly_fetcher
+2229	Genieo Web Filter	0	320	1118	~	genieo_filter
+2230	PHP	0	321	0	~	php
+2231	Apple Syndication	0	322	0	~	apple_syndicate
+2232	Android Download Manager	0	323	0	~	android_dnld
+2233	Bitcasa	0	324	1119	~	bitcasa
+2234	Sony	0	0	1120	~	sony
+2235	Zootool	0	0	1121	~	zootool
+2236	WeTransfer	0	0	1122	~	wetransfer
+2237	Storify	0	0	1123	~	storify
+2238	SpeedRunsLive	0	0	1124	~	speedrunslive
+2240	WDT	0	0	1125	~	wdt
+2241	Twitterrific	0	325	1126	~	twitterrific
+2242	The Seattle Times	0	0	1128	~	seattle_times
+2243	Readability	0	0	1129	~	readability
+2244	Postini	0	0	1130	~	postini
+2245	Oracle sites	0	0	1131	~	oracle_sites
+2246	Okta	0	0	1132	~	okta
+2247	Nike	0	0	1133	~	nike
+2248	Libsyn	0	0	1134	~	libsyn
+2249	JetSetMe	0	0	1135	~	jetsetme
+2250	Investopedia	0	0	1136	~	investopedia
+2251	The Hollywood Reporter	0	0	1137	~	hollywood_reprt
+2252	John's Background Switcher	0	329	0	~	johns_switcher
+2253	AppleCoreMedia	0	330	0	~	applecoremedia
+2254	HLN	0	0	1138	~	hln
+2255	FFFFOUND!	0	0	1139	~	ffffound
+2256	CNET TV	0	0	1141	~	cnet_tv
+2258	Android Music	0	331	0	~	android_music
+2261	Adap.tv	0	0	1142	~	adap.tv
+2262	Feedfetcher	0	332	0	~	feedfetcher
+2263	GSA Crawler	0	333	0	~	gsa_crawler
+2264	Kraken	0	334	0	~	kraken
+2265	MagPie	0	335	0	~	magpie
+2267	Sogou web spider	0	338	0	~	sogou_spider
+2268	Voilabot	0	339	0	~	voilabot
+2269	Drugs.com	0	0	1143	~	drugs
+2270	Campfire	0	0	1144	~	campfire
+2271	AudioDocumentary.org	0	0	1145	~	audiodocument
+2273	Quick Look	0	341	0	~	quick_look
+2274	NVIDIA Update	0	342	0	~	nvidia_update
+2275	Connexion client	0	343	0	~	connexion_clnt
+2276	PS3 Community Agent	0	344	0	~	ps3_comm_agent
+2277	PSP Activity Agent	0	345	0	~	ps3_actv_agent
+2278	PSP Community Agent	0	346	0	~	psp_comm_agent
+2279	MS Office Existence Discovery	0	347	0	~	msoffice_exist
+2280	MS Office Protocol Discovery	0	348	0	~	msoffice_proto
+2282	Rainmeter WebParser	0	350	0	~	rainmeter
+2283	reCAPTCHA	0	351	0	~	recaptcha
+2284	simple-get	0	352	0	~	simple-get
+2285	Wood TV8	0	0	1146	~	wood_tv8
+2286	App.net	0	0	1147	~	app.net
+2287	Malware Defense System	0	353	0	~	malware_defense
+2288	Microsoft Excel	0	354	0	~	msoffice_excel
+2289	Microsoft NCSI	0	355	1148	~	ms_ncsi
+2290	Microsoft WNS	0	356	0	~	ms_wns
+2291	Moodlebot	0	357	0	~	moodlebot
+2292	Windows Phone Browser	0	358	0	~	win_phone_browz
+2297	XProtectUpdater	0	360	0	~	xprotectupdater
+2298	Xenu Link Sleuth	0	361	0	~	xenu_link
+2299	uTorrent	0	362	0	~	utorrent
+2300	URLAppendBot	0	363	0	~	urlappendbot
+2301	Tiny Tiny RSS	0	364	0	~	tiny_tiny_rss
+2302	Tinder	0	365	1150	~	tinder
+2303	Sage	0	366	0	~	sage
+2305	Radian6 CommentReader	0	368	0	~	radian6_comment
+2306	Powermarks	0	369	0	~	powermarks
+2307	PDF Expert	0	370	0	~	pdf_expert
+2308	Google PageSpeed	0	371	0	~	google_pagespee
+2309	Owlinbot	0	372	0	~	owlinbot
+2310	Yeti Bot	0	373	0	~	yeti_bot
+2311	TPKT	20163	0	0	tpkt	tpkt
+2315	PubSubHubbub	0	375	0	~	pubsubhubbub
+2316	ndgsa-crawler	0	376	0	~	ndgsa-crawler
+2317	Microsoft Access	0	377	0	~	msoffice_access
+2318	Dr. Watson	0	378	0	~	dr_watson
+2319	NetSight	0	379	0	~	netsight
+2320	Ovi Browser	0	380	0	~	ovi_browser
+2321	Penultimate	0	381	0	~	penultimate
+2322	Boxoh	0	0	1149	~	boxoh
+2323	OSSProxy	0	382	0	~	ossproxy
+2324	NetNewsWire	0	383	0	~	netnewswire
+2327	MaxDB	0	0	0	~	maxdb
+2329	urlgrabber	0	385	0	~	urlgrabber
+2330	Apache Nutch	0	386	1151	~	apache_nutch
+2331	MobileAsset	0	387	0	~	mobileasset
+2332	MCStats	0	388	0	~	mcstats
+2333	MapMyFitness	0	389	0	~	mapmyfitness
+2334	JikeSpider	0	390	0	~	jikespider
+2335	Infinity Blade	0	391	1152	~	infinity_blade
+2336	Mediabot	0	392	0	~	mediabot
+2337	Feed43	0	393	0	~	feed43
+2338	Dragon Dictate	0	394	0	~	dragon_dictate
+2339	Coc Coc bot	0	395	0	~	coc_coc_bot
+2346	2345.com	0	0	1402	~	2345.com
+2347	Forbes	0	0	1758	~	forbes
+2348	Freee TV	0	0	1766	~	freee_tv
+2349	IKEA.com	0	0	1510	~	ikea.com
+2350	Pchome	0	0	1583	~	pchome
+2351	TechInline	0	0	1639	~	techinline
+2352	wikidot	0	0	1711	~	wikidot
+2353	Quote.com	0	0	1603	~	quote.com
+2354	CBS Interactive	0	0	1460	~	cbs_interactive
+2356	Hupu	0	0	1505	~	hupu
+2357	Foursquare	0	0	1703	~	foursquare
+2358	The Internet Archive	0	0	1729	~	the_internet_ar
+2359	Doof	0	0	1541	~	doof
+2360	Adenin	0	0	1543	~	adenin
+2361	Groupon	0	0	1699	~	groupon
+2363	Match.com	0	0	1536	~	match.com
+2364	Meetup	0	0	1554	~	meetup
+2365	MyWebSearch	0	0	1568	~	mywebsearch
+2366	Uploading.com	0	0	1730	~	uploading.com
+2370	ADNStream	0	0	1418	~	adnstream
+2371	China.com	0	0	1463	~	china.com
+2372	In.com	0	0	1784	~	in.com
+2373	it168	0	0	1519	~	it168
+2374	Letitbit	0	0	1527	~	letitbit
+2375	MUZU TV	0	0	1566	~	muzu_tv
+2377	Squidoo	0	0	1631	~	squidoo
+2379	Tango	0	0	1635	~	tango
+2380	PPTV	0	0	1598	~	pptv
+2381	Apple Maps	0	468	1586	~	apple_maps
+2382	SendSpace	0	0	1613	~	sendspace
+2383	Sogou	0	0	1625	~	sogou
+2384	Chinaren	0	0	1464	~	chinaren
+2385	17173.com	0	0	1401	~	17173.com
+2386	Alibaba	0	0	1429	~	alibaba
+2388	Etao	0	0	1545	~	etao
+2389	Aliyun	0	0	1430	~	aliyun
+2390	Naverisk	0	0	1569	~	naverisk
+2401	iCall	0	0	1507	~	icall
+2403	Google ads	0	0	1768	~	google_ads
+2404	RichRelevance	0	0	1609	~	richrelevance
+2405	Quantcast	0	0	1602	~	quantcast
+2408	Scorecard Research	0	0	1612	~	scorecard_resea
+2411	SPC Media	0	0	1629	~	spc_media
+2413	AppNexus	0	0	1443	~	appnexus
+2414	Adconion Media Group	0	0	1411	~	adconion_media_
+2415	OpenX	0	0	1581	~	openx
+2416	MediaMath	0	0	1539	~	mediamath
+2417	Rubicon Project	0	0	1611	~	rubicon_project
+2419	33Across	0	0	1405	~	33across
+2420	Akamai NetSession Interface	0	396	0	~	akamai_netsess
+2421	AhrefsBot	0	397	0	~	ahrefsbot
+2422	AddThis Bot	0	398	0	~	addthis_bot
+2423	IMTransferAgent	0	399	0	~	imtransferagent
+2424	The Atlantic	0	0	1153	~	the_atlantic
+2425	Svpply	0	0	1154	~	svpply
+2426	StreetFire	0	0	1155	~	streetfire
+2427	Southern Living	0	0	1156	~	southern_living
+2428	Buffer	0	0	1170	~	buffer
+2429	Coupa	0	0	1158	~	coupa
+2430	The Escapist Magazine	0	0	1159	~	escapist
+2431	Pocket	0	0	1160	~	pocket
+2432	Grantland	0	0	1161	~	grantland
+2433	The Independent	0	0	1162	~	the_independent
+2434	Instapaper	0	0	1163	~	instapaper
+2435	KBS	0	0	1164	~	kbs
+2437	Pinboard	0	0	1166	~	pinboard
+2438	Pushover	0	0	1167	~	pushover
+2439	Realview TV	0	0	1168	~	realview_tv
+2440	Dots	0	401	1169	~	dots
+2451	Improve Digital	0	0	1512	~	improve_digital
+2452	BlueKai	0	0	1393	~	bluekai
+2454	Admeld	0	0	1415	~	admeld
+2455	iPerceptions	0	0	1517	~	iperceptions
+2456	Atlas Advertiser Suite	0	0	1446	~	atlas_advertise
+2458	Compete	0	0	1472	~	compete
+2460	Silverpop	0	0	1616	~	silverpop
+2461	Infonline	0	0	1514	~	infonline
+2462	comScore	0	0	1552	~	comscore
+2463	Komli Media	0	0	1520	~	komli_media
+2465	Lotame	0	0	1533	~	lotame
+2466	Krux	0	0	1522	~	krux
+2467	AudienceScience	0	0	1447	~	audiencescience
+2468	Nielsen	0	0	1573	~	nielsen
+2470	Android.com	0	0	1433	~	android.com
+2471	PDBox	0	0	1584	~	pdbox
+2474	Lync	0	0	1644	~	lync
+2481	East Money	0	0	1544	~	east_money
+2482	Blokus	0	0	1391	~	blokus
+2483	Freelancer	0	0	1704	~	freelancer
+2484	Goal	0	491	1769	~	goal
+2485	HubPages	0	0	1504	~	hubpages
+2486	Marca	0	0	1535	~	marca
+2487	Telly	0	0	1641	~	telly
+2488	Wikispaces	0	0	1737	~	wikispaces
+2490	Chinauma	0	0	1465	~	chinauma
+2491	adSage	0	0	1423	~	adsage
+2492	247 Inc.	0	0	1404	~	247_inc.
+2493	24/7 Media	0	0	1403	~	24/7_media
+2494	SLI Systems	0	0	1620	~	sli_systems
+2495	OwnerIQ	0	0	1297	~	owneriq
+2496	Monetate	0	0	1561	~	monetate
+2497	AdReady	0	0	1421	~	adready
+2499	The Trade Desk	0	0	1762	~	the_trade_desk
+2500	AdGear	0	0	1413	~	adgear
+2501	MediaV	0	0	1553	~	mediav
+2502	ClickTale	0	0	1468	~	clicktale
+2503	Adtech	0	0	1425	~	adtech
+2504	Amobee	0	0	1427	~	amobee
+2505	LeadBolt	0	0	1524	~	leadbolt
+2506	Mobile Theory	0	0	1560	~	mobile_theory
+2507	Mojiva	0	0	1557	~	mojiva
+2508	Nexage	0	0	1572	~	nexage
+2509	Drawbridge	0	0	1542	~	drawbridge
+2510	Evidon	0	0	1736	~	evidon
+2511	Brilig	0	0	1456	~	brilig
+2512	Casale	0	0	1459	~	casale
+2513	Chango	0	0	1461	~	chango
+2514	Criteo	0	0	1480	~	criteo
+2515	Dotomi	0	0	1722	~	dotomi
+2516	Effective Measure	0	0	1550	~	effective_measu
+2517	eXelate	0	0	1735	~	exelate
+2518	Exponential Interactive	0	0	1756	~	exponential_int
+2519	Vibrant	0	0	1732	~	vibrant
+2520	LiveRail	0	0	1531	~	liverail
+2521	Luminate	0	0	1534	~	luminate
+2522	Media6Degrees	0	0	1734	~	media6degrees
+2523	Media Innovation Group	0	0	1760	~	media_innovatio
+2525	Motrixi	0	0	1564	~	motrixi
+2526	eyeReturn	0	0	1723	~	eyereturn
+2527	InSkin Media	0	0	1515	~	inskin_media
+2528	Cognitive Match	0	0	1471	~	cognitive_match
+2529	Connextra	0	0	1478	~	connextra
+2530	Optimizely	0	0	1582	~	optimizely
+2531	Ohana	0	0	1577	~	ohana
+2532	Integral Ad Science	0	0	1516	~	integral_ad_sci
+2533	Proclivity	0	0	1599	~	proclivity
+2534	TubeMogul	0	0	1725	~	tubemogul
+2535	CloudFlare	0	0	1469	~	cloudflare
+2536	TLVMedia	0	0	1733	~	tlvmedia
+2537	Neustar Information Services	0	0	1491	~	neustar_informa
+2538	AdXpose	0	0	1426	~	adxpose
+2539	EQ Ads	0	0	1546	~	eq_ads
+2540	TowerData	0	0	1607	~	towerdata
+2541	Xaxis	0	0	1741	~	xaxis
+2542	DataLogicx	0	0	1483	~	datalogicx
+2544	Nugg	0	0	1576	~	nugg
+2545	Yabuka	0	0	1726	~	yabuka
+2546	Ybrant Digital	0	0	1713	~	ybrant_digital
+2547	Aggregate Knowledge	0	0	1428	~	aggregate_knowl
+2548	SpotXchange	0	0	1630	~	spotxchange
+2549	X Plus One	0	0	1745	~	x_plus_one
+2551	NetSeer	0	0	1571	~	netseer
+2552	Core Audience	0	0	1354	~	core_audience
+2553	Resonate Networks	0	0	1608	~	resonate_networ
+2554	engage BDR	0	0	1548	~	engage_bdr
+2555	Connexity	0	0	1477	~	connexity
+2556	Adometry	0	0	1420	~	adometry
+2557	Bizo	0	0	1436	~	bizo
+2558	Brightroll	0	0	1454	~	brightroll
+2559	Federated Media	0	0	1702	~	federated_media
+2560	Six Apart	0	0	1618	~	six_apart
+2561	MaxPoint Interactive	0	0	1537	~	maxpoint_intera
+2563	Rocket Fuel	0	0	1610	~	rocket_fuel
+2564	RadiumOne	0	0	1604	~	radiumone
+2565	Admasters	0	0	1409	~	admasters
+2566	contnet	0	0	1479	~	contnet
+2567	eNovance	0	0	1753	~	enovance
+2568	Smart AdServer	0	0	1622	~	smart_adserver
+2569	ADMETA	0	0	1416	~	admeta
+2570	Adify	0	0	1740	~	adify
+2571	ContextWeb	0	0	1721	~	contextweb
+2572	cXense	0	0	1482	~	cxense
+2573	Caraytech	0	0	1458	~	caraytech
+2574	Freewheel	0	0	1742	~	freewheel
+2575	AdJuggler	0	0	1414	~	adjuggler
+2576	BV! Media	0	0	1746	~	bv!_media
+2577	Adtegrity	0	0	1452	~	adtegrity
+2578	AOL Ads	0	0	1435	~	aol_ads
+2579	Compuware	0	0	1473	~	compuware
+2580	Dynamic Logic	0	0	1701	~	dynamic_logic
+2581	Aptean	0	0	1444	~	aptean
+2582	Polldaddy	0	0	1597	~	polldaddy
+2583	Undertone	0	0	1738	~	undertone
+2584	VoiceFive	0	0	1731	~	voicefive
+2585	ClickBooth	0	0	1467	~	clickbooth
+2586	MyBuys	0	0	1567	~	mybuys
+2587	Webtrends	0	0	1739	~	webtrends
+2588	Telecom Express	0	0	1759	~	telecom_express
+2589	DC Storm	0	0	1747	~	dc_storm
+2590	Skimlinks	0	0	1619	~	skimlinks
+2591	Crowd Science	0	0	1481	~	crowd_science
+2592	Olive Media	0	0	1578	~	olive_media
+2593	Mixpanel	0	0	1558	~	mixpanel
+2594	Tritone Hosting	0	0	1353	~	tritone_hosting
+2595	MdotM	0	0	1538	~	mdotm
+2596	Telemetry	0	0	1640	~	telemetry
+2597	CNZZ	0	0	1470	~	cnzz
+2598	HowardForums	0	0	1503	~	howardforums
+2599	Softonic	0	0	1623	~	softonic
+2600	Booking.com	0	0	1394	~	booking.com
+2601	Concur	0	0	1476	~	concur
+2602	TeacherTube	0	0	1636	~	teachertube
+2603	Rambler	0	0	1606	~	rambler
+2604	EarthCam	0	0	1233	~	earthcam
+2605	Boxcar.io	0	0	1453	~	boxcar.io
+2606	Softpedia	0	0	1624	~	softpedia
+2607	TechCrunch	0	0	1638	~	techcrunch
+2609	LA Times	0	0	1523	~	la_times
+2610	China News	0	0	1462	~	china_news
+2626	Xbox Live sites	0	0	1771	~	xbox_live_sites
+2627	Windows Phone sites	0	0	1772	~	windows_phone_s
+2628	SopCast	0	0	1627	~	sopcast
+2635	ShareThis	0	0	1614	~	sharethis
+2636	LOCKSS	0	400	0	~	lockss
+2639	GOMTV.net	0	0	1791	~	gomtv.net
+2640	GOMTV.com	0	496	1790	~	gomtv.com
+2648	Hide My Ass!	0	0	1208	~	hide_my_ass!
+2650	VEVO.com	0	0	1172	~	vevo.com
+2651	PNAS	0	0	1173	~	pnas
+2652	HBO	0	0	1174	~	hbo
+2653	Stitcher	0	0	1175	~	stitcher
+2654	Panoramio	0	0	1176	~	panoramio
+2655	Cisco	0	0	1177	~	cisco
+2656	The Baltimore Sun	0	0	1178	~	baltimore_sun
+2657	Dilbert.com	0	0	1179	~	dilbert
+2658	Google URL Shortener	0	0	1180	~	google_url_shrt
+2659	Hotels.com	0	0	1181	~	hotels
+2660	JSTOR	0	0	1182	~	jstor
+2661	Xiami.com	0	0	1184	~	xiami.com
+2662	INRIX	0	405	1185	~	inrix
+2663	Lijit	0	0	1186	~	lijit
+2664	Moat	0	0	1187	~	moat
+2665	Ando Media	0	0	1188	~	ando_media
+2666	Break.com	0	0	1189	~	break
+2667	BitTorrent Sync	20156	407	0	bittorrent_sync	bittorrent_sync
+2668	Printer Pro Desktop	0	408	0	~	printer_pro_des
+2669	iTunes Radio	0	0	1190	~	itunes_radio
+2680	ibVPN Login	0	0	1205	~	ibvpn_login
+2681	Hideman Login	0	0	1206	~	hideman_login
+2684	NAT-PMP	20160	0	0	nat-pmp	nat-pmp
+2685	Python urllib	0	406	0	~	python_urllib
+2686	Genieo	0	0	1209	~	genieo
+2687	Mathworks	0	0	1210	~	mathworks
+2688	GoodSync	0	0	1211	~	goodsync
+2689	UpToDate	0	0	1212	~	uptodate
+2690	New Relic	0	0	1213	~	new_relic
+2691	WorldCat	0	0	1214	~	worldcat
+2694	Apple App Store	0	409	0	~	apple_app_store
+2696	Fuyin.TV	0	0	1216	~	fuyin.tv
+2697	SHOWTIME ANYTIME	0	0	1217	~	showtime_anytim
+2698	Drupal	0	0	1218	~	drupal
+2699	Sky.com	0	0	1219	~	sky
+2700	Arizona Public Media	0	0	1220	~	arizona_public
+2701	EA Games	0	0	1221	~	ea_games
+2702	Copy	0	0	1222	~	copy
+2703	TomTom	0	0	1223	~	tomtom
+2704	OpenDNS	0	0	1224	~	opendns
+2705	Gizmodo	0	0	1225	~	gizmodo
+2706	SimplePie	0	422	1226	~	simplepie
+2707	Sophos Live Protection	0	423	1227	~	sophos_live_pro
+2708	Android Asynchronous Http Client	0	410	0	~	android_asynchr
+2709	VMware Server Console	20161	412	0	vmware-vsphere	vmware-vsphere
+2710	MixBit	0	0	1228	~	mixbit
+2711	HBO GO	0	413	1231	~	hbo_go
+2712	Integromedb Crawler	0	415	0	~	integromedb
+2713	Twitter4J	0	416	0	~	twitter4j
+2714	msnbot	0	417	0	~	msnbot
+2715	Pingdom	0	418	0	~	pingdom
+2716	PHP-SOAP	0	419	0	~	php-soap
+2718	RealPlayer Cloud	0	420	0	~	realplayer_cld
+2724	iBooks	0	421	1234	~	ibooks
+2725	iTunes Store	0	424	0	~	itunes_store
+2726	RealNetworks	0	0	1232	~	realnetworks
+2727	Sametime	20162	0	0	sametime	sametime
+2728	blinkx	0	0	1235	~	blinkx
+2729	Garmin	0	0	1236	~	garmin
+2732	Nexon	0	0	1239	~	nexon
+2733	PointRoll	0	0	1240	~	pointroll
+2735	TVonline.cc	0	0	1241	~	tvonline.cc
+2737	BesTV	0	0	1242	~	bestv
+2738	Zippyshare	0	0	1243	~	zippyshare
+2739	Dropcam	0	0	1244	~	dropcam
+2740	GTA Online	0	0	1245	~	gta_online
+2746	Remote Ctrl from iPhone/iPad	0	425	0	~	remote_ctrl_fro
+2747	Rockstar Games	0	426	1246	~	rockstar_games
+2748	iRODS	20168	0	0	irods	irods
+2749	Nest Thermostat	0	427	1247	~	nest_thermostat
+2750	CTV	0	0	1248	~	ctv
+2751	CTV News	0	0	1249	~	ctv_news
+2752	Indiegogo	0	0	1250	~	indiegogo
+2753	KVOA.com	0	0	1251	~	kvoa.com
+2754	MailChimp	0	0	1252	~	mailchimp
+2755	MovieTickets.com	0	0	1253	~	movietickets
+2756	Comcast Mail	0	0	1256	~	comcast_mail
+2757	Coursera	0	0	1257	~	coursera
+2758	XBMC	0	428	1258	~	xbmc
+2759	Network PID Checker	20169	430	0	~	network_pid_chk
+2760	Gazprom Media	0	0	1259	~	gazprom_media
+2761	Tvigle	0	0	1260	~	tvigle
+2762	Bandcamp	0	0	1262	~	bandcamp
+2763	NetBackup	20170	431	0	netbackup	netbackup
+2764	Bluehost	0	0	1264	~	bluehost
+2765	SFGate	0	0	1265	~	sfgate
+2766	Library of Congress	0	0	1266	~	library_of_cong
+2767	OverBlog	0	0	1267	~	overblog
+2768	BBB	0	0	1268	~	bbb
+2769	AddToAny	0	0	1269	~	addtoany
+2770	TIME.com	0	0	1270	~	time
+2771	Phoca	0	0	1271	~	phoca
+2772	phpBB	0	0	1272	~	phpbb
+2773	HugeDomains.com	0	0	1273	~	hugedomains.com
+2774	GNU Project	0	0	1274	~	gnu_project
+2775	Lycos	0	0	1275	~	lycos
+2776	ConnMan	0	432	1276	~	connman
+2777	Creative Commons	0	0	1277	~	creative_common
+2778	NAI	0	0	1278	~	nai
+2779	Joomla	0	0	1279	~	joomla
+2780	TinyURL	0	0	1280	~	tinyurl
+2781	Amazon Cloud Player	0	433	0	~	amazon_cloud_pl
+2782	Jimdo	0	0	1281	~	jimdo
+2783	Stanford University	0	0	1282	~	standford_univ
+2784	Harvard University	0	0	1283	~	harvard_univ
+2785	eRecht24	0	0	1284	~	erecht24
+2786	European Union	0	0	1285	~	european_union
+2787	bitly	0	0	1286	~	bitly
+2788	Viddler	0	0	1287	~	viddler
+2789	Merriam-Webster	0	0	1288	~	merriam-webster
+2790	Websense	0	0	1289	~	websense
+2791	Zbigz	0	0	1290	~	zbigz
+2792	Zulily	0	0	1291	~	zulily
+2793	Zattoo	0	434	1292	~	zattoo
+2794	Xfire	20172	435	1293	~	xfire
+2802	Parallels	20173	0	1296	~	parallels
+2803	Eyejot	0	0	1298	~	eyejot
+2804	Dogpile	0	0	1299	~	dogpile
+2805	DuckDuckGo	0	0	1300	~	duckduckgo
+2814	Camo Proxy	0	0	1301	~	camo_proxy
+2815	Tencent	0	0	1302	~	tencent
+2816	Picsearch	0	0	1311	~	picsearch
+2817	Fetion	0	0	1312	~	fetion
+2818	Fluxiom	0	0	1313	~	fluxiom
+2820	LeapFILE	0	0	1315	~	leapfile
+2821	Netload	0	0	1316	~	netload
+2822	Okurin	0	0	1317	~	okurin
+2823	RayFile	0	0	1318	~	rayfile
+2824	Fotki	0	0	1319	~	fotki
+2825	CrossLoop	0	0	1320	~	crossloop
+2826	eRoom	0	0	1321	~	eroom
+2827	Glide	0	0	1322	~	glide
+2828	GREE	0	0	1323	~	gree
+2830	Wii	0	0	1303	~	wii
+2831	Shopkick	0	436	1304	~	shopkick
+2832	Hangame	0	0	1305	~	hangame
+2833	SugarCRM	0	0	1306	~	sugarcrm
+2834	Megaproxy	0	0	1307	~	megaproxy
+2835	KProxy	0	0	1308	~	kproxy
+2836	Guardster	0	0	1309	~	guardster
+2837	FlyProxy	0	0	1310	~	flyproxy
+2838	Coral CDN	0	0	1325	~	coral_cdn
+2839	Pastebin.com	0	0	1326	~	pastebin
+2840	Zhihu.com	0	0	1327	~	zhihu
+2841	Twiddla	0	0	1328	~	twiddla
+2843	Quora	0	0	1330	~	quora
+2844	Yahoo! Mobage	0	0	1331	~	yahoo_mobage
+2845	Pogoplug	0	437	1332	~	pogoplug
+2846	Adobe Analytics	0	0	1786	~	adobe_analytics
+2847	Ado Tube	0	0	1419	~	ado_tube
+2848	AdRoll	0	0	1422	~	adroll
+2849	AdSame	0	0	1424	~	adsame
+2850	AD-X Tracking	0	0	1410	~	ad-x_tracking
+2851	Allegro.pl	0	0	1431	~	allegro.pl
+2852	Autohome.com.cn	0	0	1448	~	autohome.com.cn
+2854	Ganji	0	0	1724	~	ganji
+2855	Hao123.com	0	0	1706	~	hao123.com
+2856	Ifeng.com	0	0	1509	~	ifeng.com
+2858	iStock	0	0	1518	~	istock
+2859	Kooora.com	0	0	1521	~	kooora.com
+2860	Mercado Livre	0	0	1555	~	mercado_livre
+2861	MLN Advertising	0	0	1559	~	mln_advertising
+2862	Mop.com	0	0	1562	~	mop.com
+2863	Motley Fool	0	0	1563	~	motley_fool
+2864	SiteScout	0	0	1617	~	sitescout
+2866	Zol.com.cn	0	0	1788	~	zol.com.cn
+2867	Bloglovin	0	0	1333	~	bloglovin
+2869	Baidu Movies	0	442	1334	~	baidu_movies
+2874	Gbridge	20178	440	1335	~	gbridge
+2875	Mikogo	0	0	1336	~	mikogo
+2876	Songsari	20179	441	1337	~	songsari
+2877	StreamWork	20180	0	0	~	streamwork
+2878	Xunlei Kankan	0	0	1338	~	xunlei_kankan
+2879	Google Groups	0	0	1339	~	google_groups
+2880	Google+ Photos	0	0	1340	~	google+_photos
+2881	Google+ Videos	0	0	1341	~	google+_videos
+2882	Myspace Photos	0	0	1342	~	myspace_photos
+2883	Myspace Videos	0	0	1343	~	myspace_videos
+2884	FileHost.ro	0	0	1344	~	filehost.ro
+2885	Gyao	0	0	1345	~	gyao
+2887	SVN	0	0	1634	~	svn
+2888	Quake Live	0	0	1601	~	quake_live
+2890	Sophos Update	0	0	1346	~	sophos_update
+2891	Glype	0	0	1347	~	glype
+2892	GMX	0	0	1348	~	gmx
+2893	Sanook.com	0	0	1350	~	sanook.com
+2894	AMMYY	20181	0	1351	~	ammyy
+2895	Dropbox Upload	0	0	1355	~	dropbox_upload
+2896	Dropbox Download	0	0	1356	~	dropbox_downld
+2897	Dropbox Share	0	0	1357	~	dropbox_share
+2898	R6 FeedFetcher	0	443	0	~	r6_feedfetcher
+2899	VMware Horizon View	0	0	0	~	vmware_horizon
+2900	Microsoft Windows Live Services Authentication	0	0	0	~	windowsliveAuth
+2901	Google Accounts Authentication	0	0	0	~	google_accounts
+2902	Cisco Phone	0	0	0	~	cisco_phone
+2903	LinkedIn Profile	0	0	1358	~	linked_profile
+2904	LinkedIn Inbox	0	0	1359	~	linked_inbox
+2905	iTunes iPhone	0	444	0	~	itunes_iphone
+2906	iTunes iPod	0	445	0	~	itunes_ipod
+2907	iTunes iPad	0	446	0	~	itunes_ipad
+2909	Facebook Utilities	0	0	1361	~	fb_utilities
+2910	Facebook Sports	0	0	1362	~	fb_sports
+2911	Facebook Games	0	0	1363	~	fb_games
+2918	Shareman	0	0	1437	~	shareman
+2924	iTunes Desktop	0	447	0	~	itunes_desktop
+2925	Facebook Photos	0	0	1364	~	fb_photo
+2926	Yahoo! Accounts	0	0	1366	~	yahoo_login
+2933	ESPN Video	0	0	0	~	espn_video
+2935	Facebook Applications Other	0	0	1367	~	fb_appl_other
+2937	Perforce	20187	451	0	~	perforce
+2938	Bazaarvoice	0	0	1395	~	bazaarvoice
+2940	SCCP	0	0	0	~	sccp
+2942	Telepresence Control	0	0	0	~	ciscotelepresnc
+2943	Tomatopang	20184	449	1368	~	tomatopang
+2944	VDOLive	20185	0	0	~	vdolive
+2945	DeNA Comm	0	0	0	~	dena_comm
+2946	DeNA websites	0	0	1396	~	dena_websites
+2947	JonDo	0	402	0	~	jondo
+2948	Sina Video	0	0	1397	~	sina_video
+2954	Yahoo! Flash	0	0	0	~	yahoo!_flash
+2955	Crackle Video	0	0	0	~	crackle_video
+2959	Apple Remote Desktop	20189	0	0	ard	ard
+2960	Google Hangouts	0	0	1587	~	google_hangouts
+2961	Google Helpouts	0	0	1588	~	google_helpouts
+2963	LinkedIn Upload	0	0	1369	~	linkedin_upload
+3000	3Com AMP3	0	0	0	~	3com_amp3
+3001	Access Network	0	0	0	~	access_network
+3002	AccessBuilder	0	0	0	~	accessbuilder
+3003	AODV	0	0	0	~	aodv
+3005	ALPES	0	0	0	~	alpes
+3006	Adobe PostScript	0	0	0	~	adobe_postscrip
+3007	Aeolon Core Protocol	0	0	0	~	aeolon_core_pro
+3008	AgentX	0	0	0	~	agentx
+3009	connendp	0	0	0	~	connendp
+3010	PowerChute	0	0	0	~	powerchute
+3011	AMInet	0	0	0	~	aminet
+3012	Apertus Tech Load Distribution	0	0	0	~	apertus_tech_lo
+3013	appleqtcsrvr	0	0	0	~	appleqtcsrvr
+3014	AEP	0	0	0	~	aep
+3015	NBP	0	0	0	~	nbp
+3016	AppleTalk Routing Maintenance	0	0	0	~	appletalk_routi
+3017	AppleTalk Unused 203	0	0	0	~	appletalk_203
+3018	AppleTalk Unused 205	0	0	0	~	appletalk_205
+3019	AppleTalk Unused 207	0	0	0	~	appletalk_207
+3020	AppleTalk Unused 208	0	0	0	~	appletalk_208
+3021	AURP	0	0	0	~	aurp
+3022	AppleTalk Zone Information Protocol	0	0	0	~	appletalk_zone_
+3023	ApplianceWare Managment Protocol	0	0	0	~	applianceware_m
+3024	ACAP	0	0	0	~	acap
+3025	Applix ac	0	0	0	~	applix_ac
+3026	Ariel2	0	0	0	~	ariel2
+3027	Ariel3	0	0	0	~	ariel3
+3028	AS Server Mapper	0	0	0	~	as_server_mappe
+3029	asa-appl-proto	0	0	0	~	asa-appl-proto
+3030	Asipregistry	0	0	0	~	asipregistry
+3032	Aurora CMGR	0	0	0	~	aurora_cmgr
+3034	dcLINK	0	0	0	~	dclink
+3035	Avian	0	0	0	~	avian
+3036	Banyan VIP	0	0	0	~	banyan_vip
+3037	banyan-rpc	0	0	0	~	banyan-rpc
+3038	RSH-SPX	0	0	0	~	rsh-spx
+3039	bgs-nsi	0	0	0	~	bgs-nsi
+3040	bmpp	0	0	0	~	bmpp
+3041	Borland DSJ	0	0	0	~	borland_dsj
+3043	BACnet	0	0	0	~	bacnet
+3044	CAB Protocol	0	0	0	~	cab_protocol
+3045	Cabletron Management Protocol	0	0	0	~	cabletron_manag
+3046	CadLock	0	0	0	~	cadlock
+3047	Call of Duty	0	0	0	~	call_of_duty
+3048	campaign contribution disclosures	0	0	0	~	campaign_contri
+3049	Chat	0	0	0	~	chat
+3050	Chshell	0	0	0	~	chshell
+3051	CIMPLEX	0	0	0	~	cimplex
+3052	Cisco NAC	0	0	0	~	cisco_nac
+3053	Citrix Static	0	0	0	~	citrix_static
+3054	CMIP/TCP Manager	0	0	0	~	cmip/tcp_manage
+3055	CFDP	0	0	0	~	cfdp
+3056	Collaborator	0	0	0	~	collaborator
+3057	Commerce	0	0	0	~	commerce
+3058	Common Trace Facility	0	0	0	~	common_trace_fa
+3059	Covia	0	0	0	~	covia
+3060	CDDB	0	0	0	~	cddb
+3061	cpq-wbem	0	0	0	~	cpq-wbem
+3062	CA Intl License Server	0	0	0	~	ca_intl_license
+3063	Synergy	0	0	0	~	synergy
+3064	CSTA	0	0	0	~	csta
+3065	con	0	0	0	~	con
+3066	contentserver	0	0	0	~	contentserver
+3067	Corerjd	0	0	0	~	corerjd
+3068	Courier Mail Server	0	0	0	~	courier_mail_se
+3069	Cray Network Semaphore server	0	0	0	~	cray_network_se
+3070	SFS config server	0	0	0	~	sfs_config_serv
+3071	Cray Unified Resource Manager	0	0	0	~	cray_unified_re
+3072	Creative Partner	0	0	0	~	creative_partne
+3073	Creative Server	0	0	0	~	creative_server
+3074	CRYPTOAdmin	0	0	0	~	cryptoadmin
+3075	CSNET Mailbox Name Nameserver	0	0	0	~	csnet_mailbox_n
+3076	Customer Ixchange	0	0	0	~	customer_ixchan
+3077	cvc_hostd	0	0	0	~	cvc_hostd
+3078	CVS pserver	0	0	0	~	cvs_pserver
+3079	Cybercash	0	0	0	~	cybercash
+3080	cycleserv	0	0	0	~	cycleserv
+3081	cycleserv2	0	0	0	~	cycleserv2
+3082	Retrospect	0	0	0	~	retrospect
+3083	DataRamp Svr	0	0	0	~	dataramp_svr
+3084	DataRampSrvSec	0	0	0	~	datarampsrvsec
+3085	DCE endpoint resolution	0	0	0	~	dce_endpoint_re
+3086	dctp	0	0	0	~	dctp
+3087	DDM DFM	0	0	0	~	ddm_dfm
+3088	DDM RRDA	0	0	0	~	ddm_rrda
+3089	DEC DLM	0	0	0	~	dec_dlm
+3090	decap	0	0	0	~	decap
+3091	Decbsrv	0	0	0	~	decbsrv
+3093	DEI-ICDA	0	0	0	~	dei-icda
+3094	Desknet's	0	0	0	~	desknet's
+3095	device	0	0	0	~	device
+3096	DHCP Failover	0	0	0	~	dhcp_failover
+3097	DHCP Failover 2	0	0	0	~	dhcp_failover_2
+3098	DHCPv6 Client	0	0	0	~	dhcpv6_client
+3100	digital-vrc	0	0	0	~	digital-vrc
+3101	Direct TV Software Updates	0	0	0	~	direct_tv_softw
+3102	Direct TV Tickers	0	0	0	~	direct_tv_ticke
+3103	DirectPlay	0	0	0	~	directplay
+3104	DirectPlay8	0	0	0	~	directplay8
+3105	DirecTV Data Catalog	0	0	0	~	directv_data_ca
+3106	DirecTV Webcasting	0	0	0	~	directv_webcast
+3107	distcc	0	0	0	~	distcc
+3109	DDM	0	0	0	~	ddm
+3110	DOOM	0	0	0	~	doom
+3111	DWR	0	0	0	~	dwr
+3112	eDonkey Static	0	0	0	~	edonkey_static
+3113	EMC SmartPackets	0	0	0	~	emc_smartpacket
+3114	entomb	0	0	0	~	entomb
+3115	Entrust Administration Service Handler	0	0	0	~	entrust_adminis
+3116	Entrust-KMSH	0	0	0	~	entrust-kmsh
+3117	Entrust SPS	0	0	0	~	entrust_sps
+3118	entrust-aaas	0	0	0	~	entrust-aaas
+3119	entrust-aams	0	0	0	~	entrust-aams
+3120	errlog copy/server daemon	0	0	0	~	errlog_copy/ser
+3121	ESCP	0	0	0	~	escp
+3122	eSignal	0	0	0	~	esignal
+3123	XTP	0	0	0	~	xtp
+3124	FCP	0	0	0	~	fcp
+3125	FLEXlm	0	0	0	~	flexlm
+3126	FTP Software Agent System	0	0	0	~	ftp_software_ag
+3127	Fujitsu Device Control	0	0	0	~	fujitsu_device_
+3128	gdomap	0	0	0	~	gdomap
+3129	GDS DataBase	0	0	0	~	gds_database
+3130	ginad	0	0	0	~	ginad
+3131	GSI-FTP	0	0	0	~	gsi-ftp
+3132	GNU Generation Foundation NCP 678	0	0	0	~	gnu_gen_678
+3133	GNU Generation Foundation NCP 128	0	0	0	~	gnu_gen_128
+3134	GKrellM	0	0	0	~	gkrellm
+3135	GoBoogy	0	0	0	~	goboogy
+3136	GotoDevice	0	0	0	~	gotodevice
+3137	Graphics	0	0	0	~	graphics
+3138	GraphOn Login	0	0	0	~	graphon_login
+3139	Groove	0	0	0	~	groove
+3140	3GPP	0	0	0	~	3gpp
+3141	ha-cluster	0	0	0	~	ha-cluster
+3142	Hardware Control Protocol Wismar	0	0	0	~	hardware_contro
+3143	HELLO Port	0	0	0	~	hello_port
+3144	Heroix Longitude	0	0	0	~	heroix_longitud
+3147	Hitachi Universal Storage Platform	0	0	0	~	hitachi_univers
+3148	HMMP Indication	0	0	0	~	hmmp_indication
+3149	HMMP Operation	0	0	0	~	hmmp_operation
+3150	HAP	0	0	0	~	hap
+3151	HP Network Management Center.	0	0	0	~	hp_network_mana
+3153	HTTP RPC Ep Map	0	0	0	~	http_rpc_ep_map
+3154	Hybrid Point of Presence	0	0	0	~	hybrid_point_of
+3155	Hyperwave-ISP	0	0	0	~	hyperwave-isp
+3156	iafdbase	0	0	0	~	iafdbase
+3157	IAFServer	0	0	0	~	iafserver
+3158	IBM Director	0	0	0	~	ibm_director
+3160	IBM NetView DM	0	0	0	~	ibm_netview_dm
+3161	IBM NetView DM/6000 Server/Client	0	0	0	~	ibm_netview_dm/
+3162	ICL coNETion locate server	0	0	0	~	icl_conetion_lo
+3163	ICL coNETion server info	0	0	0	~	icl_conetion_se
+3164	idfp	0	0	0	~	idfp
+3165	IEEE-MMS-SSL	0	0	0	~	ieee-mms-ssl
+3167	IMP Logical Address Maintenance	0	0	0	~	imp_logical_add
+3168	Intecourier	0	0	0	~	intecourier
+3169	Integra Software Management Environment	0	0	0	~	integra_softwar
+3172	IBP	0	0	0	~	ibp
+3173	Internet Configuration Manager	0	0	0	~	internet_config
+3176	Internet telephony tool	0	0	0	~	internet_teleph
+3177	CU-SeeMe	0	0	0	~	cu-seeme
+3178	IPX over UDP	0	0	0	~	ipx_over_udp
+3179	intrinsa	0	0	0	~	intrinsa
+3180	ipcd	0	0	0	~	ipcd
+3181	ipdd	0	0	0	~	ipdd
+3182	Kali	0	0	0	~	kali
+3183	IRC-SERV	0	0	0	~	irc-serv
+3184	ISO ILL Protocol	0	0	0	~	iso_ill_protoco
+3185	ISO Transport Class 2 Non-Control over TCP	0	0	0	~	iso_transport_c
+3186	ISO SAP	0	0	0	~	iso_sap
+3188	ISO-TP0	0	0	0	~	iso-tp0
+3189	itm-mcell-s	0	0	0	~	itm-mcell-s
+3191	Kerberos Administration	0	0	0	~	kerberos_admini
+3192	Key Server	0	0	0	~	key_server
+3193	Klogin	0	0	0	~	klogin
+3194	Konspire2b	0	0	0	~	konspire2b
+3195	kpasswd	0	0	0	~	kpasswd
+3196	kshell	0	0	0	~	kshell
+3198	lanserver	0	0	0	~	lanserver
+3199	LWAPP	0	0	0	~	lwapp
+3201	ljk-login	0	0	0	~	ljk-login
+3202	Locus PC-Interface Conn Server	0	0	0	~	locus_pc-interf
+3203	Loglogic	0	0	0	~	loglogic
+3204	MacOS Server Admin	0	0	0	~	macos_server_ad
+3205	MSA	0	0	0	~	msa
+3206	Mailbox-LM	0	0	0	~	mailbox-lm
+3207	maitrd	0	0	0	~	maitrd
+3208	Management Utility	0	0	0	~	management_util
+3209	mcns-sec	0	0	0	~	mcns-sec
+3210	mdc-portmapper	0	0	0	~	mdc-portmapper
+3211	Memcomm	0	0	0	~	memcomm
+3212	Meregister	0	0	0	~	meregister
+3214	Meter	0	0	0	~	meter
+3215	micom-pfs	0	0	0	~	micom-pfs
+3217	Micromuse-lm	0	0	0	~	micromuse-lm
+3218	Microsoft Global Catalog	0	0	0	~	microsoft_globa
+3220	Microsoft Rome	0	0	0	~	microsoft_rome
+3221	Microsoft Shuttle	0	0	0	~	microsoft_shutt
+3222	Microsoft System Center Operations Manager	0	0	0	~	microsoft_syste
+3224	MIT ML Device	0	0	0	~	mit_ml_device
+3225	MobilIP-MN	0	0	0	~	mobilip-mn
+3226	Mobility XE protocol	0	0	0	~	mobility_xe_pro
+3227	Mondex	0	0	0	~	mondex
+3228	Monitor	0	0	0	~	monitor
+3229	MPM FLAGS Protocol	0	0	0	~	mpm_flags_proto
+3230	MS Exchange Routing	0	0	0	~	ms_exchange_rou
+3231	msg-icp	0	0	0	~	msg-icp
+3232	Bundle Discovery Protocol	0	0	0	~	bundle_discover
+3233	MRM	0	0	0	~	mrm
+3234	Multiling HTTP	0	0	0	~	multiling_http
+3237	Mylex-mapd	0	0	0	~	mylex-mapd
+3238	nCube License Manager	0	0	0	~	ncube_license_m
+3239	Nest Protocol	0	0	0	~	nest_protocol
+3240	netGW	0	0	0	~	netgw
+3241	Netix MPP	0	0	0	~	netix_mpp
+3242	Netnews	0	0	0	~	netnews
+3243	Netnews Administration System	0	0	0	~	netnews_adminis
+3244	Netop Remote Control	0	0	0	~	netop_remote_co
+3245	Network based Rev. Cont. Sys.	0	0	0	~	network_based_r
+3247	Network Innovations Multiplex	0	0	0	~	network_innovat
+3248	Nmap	0	0	0	~	nmap
+3250	NQS	0	0	0	~	nqs
+3252	Network Systems	0	0	0	~	network_systems
+3253	Networked Media Streaming Protocol	0	0	0	~	networked_media
+3254	New who	0	0	0	~	new_who
+3255	NFS Lock Daemon Manager	0	0	0	~	nfs_lock_daemon
+3257	nlogin	0	0	0	~	nlogin
+3258	Novadigm EDM	0	0	0	~	novadigm_edm
+3259	Novell Netware over IP	0	0	0	~	novell_netware_
+3260	NPMP Trap	0	0	0	~	npmp_trap
+3261	npmp-gui	0	0	0	~	npmp-gui
+3262	npmp-local	0	0	0	~	npmp-local
+3263	NSW User System FE	0	0	0	~	nsw_user_system
+3264	OBEX	0	0	0	~	obex
+3265	OCS_CMU	0	0	0	~	ocs_cmu
+3266	Ohimsrv	0	0	0	~	ohimsrv
+3267	Omginitialrefs	0	0	0	~	omginitialrefs
+3268	Omserv	0	0	0	~	omserv
+3269	opalis-rdv	0	0	0	~	opalis-rdv
+3270	openvms-sysipc	0	0	0	~	openvms-sysipc
+3271	Operations Manager - Health Service	0	0	0	~	operations_mana
+3272	oracle	0	0	0	~	oracle_1527
+3273	Oracle coauthor	0	0	0	~	oracle_coauthor
+3274	Oracle Names	0	0	0	~	oracle_names
+3275	Oracle Net8 Cman	0	0	0	~	oracle_net8_cma
+3276	Oracle Net8 CMan Admin	0	0	0	~	oracle_net8_adm
+3277	Oracle TCP/IP Listener	0	0	0	~	oracle_tcp/ip_l
+3278	Orbix 2000 Config	0	0	0	~	orbix_2000_conf
+3279	Orbix 2000 Locator	0	0	0	~	orbix_2000_loc
+3280	Orbix 2000 Locator over SSL	0	0	0	~	orbix_2000_ssl
+3282	P10	0	0	0	~	p10
+3283	Parsec Gameserver	0	0	0	~	parsec_gameserv
+3285	PassGo Technologies Service	0	0	0	~	passgo_technolo
+3286	Password Change	0	0	0	~	password_change
+3287	PDL data streaming port	0	0	0	~	pdl_data_stream
+3289	POV-Ray	0	0	0	~	pov-ray
+3290	Personal Link	0	0	0	~	personal_link
+3291	Pharos psrserver	0	0	0	~	pharos_psrserve
+3292	Philips Video-Conferencing	0	0	0	~	philips_video-c
+3293	Phonebook	0	0	0	~	phonebook
+3294	Photuris	0	0	0	~	photuris
+3295	PIM-RP-DISC	0	0	0	~	pim-rp-disc
+3296	pirp	0	0	0	~	pirp
+3297	Plus Fives MUMPS	0	0	0	~	plus_fives_mump
+3298	PTP Event	0	0	0	~	ptp_event
+3299	PAPI	0	0	0	~	papi
+3300	PRM Node Man	0	0	0	~	prm_node_man
+3301	PRM Sys Man	0	0	0	~	prm_sys_man
+3302	PTC Name Service	0	0	0	~	ptc_name_servic
+3303	PTP General	0	0	0	~	ptp_general
+3304	pump	0	0	0	~	pump
+3305	PureNoise	0	0	0	~	purenoise
+3306	qrh	0	0	0	~	qrh
+3308	QMQP	0	0	0	~	qmqp
+3310	Quotad	0	0	0	~	quotad
+3312	Radio Control Protocol	0	0	0	~	radio_control_p
+3313	Rational Method Composer	0	0	0	~	rational_method
+3314	REAL SQL Server	0	0	0	~	real_sql_server
+3315	Radmin	0	0	0	~	radmin
+3316	RDA	0	0	0	~	rda
+3317	RMCP	0	0	0	~	rmcp
+3318	Remote Method Invocation Activation	0	0	0	~	remote_method_i
+3319	rmtis	0	0	0	~	rmtis
+3320	Remote-KIS	0	0	0	~	remote-kis
+3321	RemoteFS	0	0	0	~	remotefs
+3322	repcmd	0	0	0	~	repcmd
+3323	repscmd	0	0	0	~	repscmd
+3326	RRH	0	0	0	~	rrh
+3327	RLZ Dbase	0	0	0	~	rlz_dbase
+3328	rmiregistry	0	0	0	~	rmiregistry
+3329	Rmonitor	0	0	0	~	rmonitor
+3331	netvmg-traceroute	0	0	0	~	netvmg-tracerou
+3332	RSVP Tunnel	0	0	0	~	rsvp_tunnel
+3333	rtip	0	0	0	~	rtip
+3334	RUSHD	0	0	0	~	rushd
+3335	Russell Info Sci Calendar Manager	0	0	0	~	russell_info_sc
+3336	rxe	0	0	0	~	rxe
+3337	SANity	0	0	0	~	sanity
+3338	SAP	0	0	0	~	sap
+3339	SCC Security	0	0	0	~	scc_security
+3340	SCO Desktop Administration Server	0	0	0	~	sco_desktop_adm
+3341	SCO System Administration Server	0	0	0	~	sco_system_admi
+3342	SCO Web Server Manager 3	0	0	0	~	sco_web_server_
+3343	SCO WebServer Manager	0	0	0	~	sco_webserver_m
+3344	scohelp	0	0	0	~	scohelp
+3345	SST	0	0	0	~	sst
+3346	scx-proxy	0	0	0	~	scx-proxy
+3347	SDNS-KMP	0	0	0	~	sdns-kmp
+3349	SILC	0	0	0	~	silc
+3350	Secure IRC	0	0	0	~	secure_irc
+3351	SMID	0	0	0	~	smid
+3353	SNNTP	0	0	0	~	snntp
+3354	SIFT	0	0	0	~	sift
+3355	srvloc	0	0	0	~	srvloc
+3356	sFlow	0	0	0	~	sflow
+3357	Siam	0	0	0	~	siam
+3358	SAFT	0	0	0	~	saft
+3359	SNTP-HEARTBEAT	0	0	0	~	sntp-heartbeat
+3361	Sitara Dir	0	0	0	~	sitara_dir
+3362	Sitara Management	0	0	0	~	sitara_manageme
+3363	Sitara Server	0	0	0	~	sitara_server
+3364	Skronk	0	0	0	~	skronk
+3366	smpnameres	0	0	0	~	smpnameres
+3367	smsd	0	0	0	~	smsd
+3369	Softros LAN Messenger	0	0	0	~	softros_lan_mes
+3370	Sonar	0	0	0	~	sonar
+3371	SURF	0	0	0	~	surf
+3372	SPMP	0	0	0	~	spmp
+3373	spsc	0	0	0	~	spsc
+3374	ss7ns	0	0	0	~	ss7ns
+3375	STMF	0	0	0	~	stmf
+3376	Stock IXChange	0	0	0	~	stock_ixchange
+3377	streettalk	0	0	0	~	streettalk
+3378	STUN over TLS	0	0	0	~	stun_over_tls
+3379	Submit Protocol	0	0	0	~	submit_protocol
+3380	SUBNTBCST_TFTP	0	0	0	~	subntbcst_tftp
+3381	Sun IPC server	0	0	0	~	sun_ipc_server
+3382	SUNDR	0	0	0	~	sundr
+3383	Survey Measurement	0	0	0	~	survey_measurem
+3384	SRVFP	0	0	0	~	srvfp
+3385	SynOptics SNMP Relay	0	0	0	~	synoptics_snmp_
+3386	SynOptics Trap	0	0	0	~	synoptics_trap
+3387	SNARE	0	0	0	~	snare
+3388	BB	0	0	0	~	bb
+3389	TDP	0	0	0	~	tdp
+3390	TeamSound	0	0	0	~	teamsound
+3391	Technical Analysis Software	0	0	0	~	technical_analy
+3392	Teedtap	0	0	0	~	teedtap
+3393	tell	0	0	0	~	tell
+3394	TenFold	0	0	0	~	tenfold
+3395	TESLA	0	0	0	~	tesla
+3397	TIA/EIA/IS-99 modem server	0	0	0	~	tia/eia/is-99_m
+3398	Timeserver	0	0	0	~	timeserver
+3399	tinc	0	0	0	~	tinc
+3400	TNS CML	0	0	0	~	tns_cml
+3401	Tobit David Replica	0	0	0	~	tobit_david_rep
+3402	TPIP	0	0	0	~	tpip
+3404	Transport Independent Convergence	0	0	0	~	transport_indep
+3405	trin00	0	0	0	~	trin00
+3406	Ulpnet	0	0	0	~	ulpnet
+3407	Unix time	0	0	0	~	unix_time
+3408	User Location Protocol	0	0	0	~	user_location_p
+3409	UTMPCD	0	0	0	~	utmpcd
+3410	utmpsd	0	0	0	~	utmpsd
+3411	uuidgen	0	0	0	~	uuidgen
+3412	VACDSM-APP	0	0	0	~	vacdsm-app
+3413	VACDSM-SWS	0	0	0	~	vacdsm-sws
+3414	VATP	0	0	0	~	vatp
+3415	vemmi	0	0	0	~	vemmi
+3416	Vid	0	0	0	~	vid
+3417	Videotex	0	0	0	~	videotex
+3418	Virtual Presence Protocol	0	0	0	~	virtual_presenc
+3419	VMware Fault Domain Manager	0	0	0	~	vmware_fault_do
+3420	vnas	0	0	0	~	vnas
+3421	VPPS-Via	0	0	0	~	vpps-via
+3422	vsinet	0	0	0	~	vsinet
+3423	VVPS-Qua	0	0	0	~	vvps-qua
+3424	WAP connectionless session service	0	0	0	~	wap_connectionl
+3425	WAP Push	0	0	0	~	wap_push
+3426	WAP Push OTA-HTTP port	0	0	0	~	wap_push_ota_po
+3427	WAP Push OTA-HTTP secure	0	0	0	~	wap_push_ota_se
+3428	WAP Push Secure	0	0	0	~	wap_push_secure
+3429	WAP secure connectionless session service	0	0	0	~	wap_secure_conn
+3430	WAP Session Service Secure	0	0	0	~	wap_session_sec
+3431	WAP Session Service	0	0	0	~	wap_session_ser
+3432	WAP vCal	0	0	0	~	wap_vcal
+3433	WAP vCal Secure	0	0	0	~	wap_vcal_secure
+3434	WAP vCard	0	0	0	~	wap_vcard
+3435	WAP vCard Secure	0	0	0	~	wap_vcard_secur
+3436	War-rock	0	0	0	~	war-rock
+3437	whoami	0	0	0	~	whoami
+3438	WLCCP	0	0	0	~	wlccp
+3439	World Fusion	0	0	0	~	world_fusion
+3440	wpgs	0	0	0	~	wpgs
+3442	xact-backup	0	0	0	~	xact-backup
+3443	xvttp	0	0	0	~	xvttp
+3501	ICMP	0	0	0	~	icmp
+3504	IP in IP	0	0	0	~	ip_in_ip
+3505	ST	0	0	0	~	st
+3507	CBT	0	0	0	~	cbt
+3508	EGP	0	0	0	~	egp
+3509	IGRP	0	0	0	~	igrp
+3510	BBN RCC	0	0	0	~	bbn_rcc
+3511	NVP	0	0	0	~	nvp
+3513	Argus	0	0	0	~	argus
+3514	Emission Control Protocol	0	0	0	~	emission_contro
+3515	Cross Net Debugger	0	0	0	~	cross_net_debug
+3516	CHAOSNet	0	0	0	~	chaosnet
+3519	DCN Measurement Subsystems	0	0	0	~	dcn_measurement
+3520	HMP	0	0	0	~	hmp
+3521	Packet Radio Measurement	0	0	0	~	packet_radio_me
+3523	Trunk-1 Protocol	0	0	0	~	trunk-1_protoco
+3524	Trunk-2 Protocol	0	0	0	~	trunk-2_protoco
+3525	Leaf-1	0	0	0	~	leaf-1
+3526	Leaf-2	0	0	0	~	leaf-2
+3527	Reliable Datagram Protocol	0	0	0	~	reliable_datagr
+3528	IRTP	0	0	0	~	irtp
+3529	TP4	0	0	0	~	tp4
+3530	NETBLT	0	0	0	~	netblt
+3531	MFE	0	0	0	~	mfe
+3534	TPCP	0	0	0	~	tpcp
+3535	IDPR	0	0	0	~	idpr
+3537	DDP	0	0	0	~	ddp
+3538	IDPR Control Message	0	0	0	~	idpr_control_me
+3539	TP++	0	0	0	~	tp++
+3540	IL	0	0	0	~	il
+3541	IPv6 encapsulation	0	0	0	~	ipv6_encapsulat
+3542	SDRP	0	0	0	~	sdrp
+3545	IDRP	0	0	0	~	idrp
+3548	DSR	0	0	0	~	dsr
+3549	BNA	0	0	0	~	bna
+3552	i-nlsp	0	0	0	~	i-nlsp
+3553	Swipe	0	0	0	~	swipe
+3554	NARP	0	0	0	~	narp
+3555	IP Mobility	0	0	0	~	ip_mobility
+3557	SKIP	0	0	0	~	skip
+3558	ICMP for IPv6	0	0	0	~	icmp_for_ipv6
+3561	any host	0	0	0	~	any_host
+3562	cFTP	0	0	0	~	cftp
+3564	SATNET and Backroom EXPAK	0	0	0	~	satnet_and_back
+3566	RVD	0	0	0	~	rvd
+3567	Pluribus Packet Core	0	0	0	~	pluribus_packet
+3569	SATNET Monitoring	0	0	0	~	satnet_monitori
+3571	IPCU	0	0	0	~	ipcu
+3572	CP Network Executive	0	0	0	~	cp_network_exec
+3573	CP Heart Beat	0	0	0	~	cp_heart_beat
+3574	Wang Span	0	0	0	~	wang_span
+3575	PVP	0	0	0	~	pvp
+3576	SATNET	0	0	0	~	satnet
+3577	SUN NDP	0	0	0	~	sun_ndp
+3578	Wideband Monitoring	0	0	0	~	wideband_monito
+3579	Wideband EXPAK	0	0	0	~	wideband_expak
+3582	VMTP	0	0	0	~	vmtp
+3584	TTP	0	0	0	~	ttp
+3585	NSFNET-IGP	0	0	0	~	nsfnet-igp
+3587	TCF	0	0	0	~	tcf
+3590	Sprite RPC	0	0	0	~	sprite_rpc
+3591	Locus ARP	0	0	0	~	locus_arp
+3592	MTP	0	0	0	~	mtp
+3593	AX.25	0	0	0	~	ax.25
+3595	MICP	0	0	0	~	micp
+3596	Semaphore Sec Pro	0	0	0	~	semaphore_sec_p
+3597	EtherIP	0	0	0	~	etherip
+3598	Encapsulation Header	0	0	0	~	encapsulation_h
+3600	GMTP	0	0	0	~	gmtp
+3601	IFMP	0	0	0	~	ifmp
+3602	PNNI	0	0	0	~	pnni
+3604	ARIS	0	0	0	~	aris
+3605	SCPS	0	0	0	~	scps
+3606	QNX	0	0	0	~	qnx
+3607	Active Networks	0	0	0	~	active_networks
+3609	SNP	0	0	0	~	snp
+3610	Compaq-Peer	0	0	0	~	compaq-peer
+3611	IPX over IP	0	0	0	~	ipx_over_ip
+3612	VRRP	0	0	0	~	vrrp
+3613	PGM RTP	0	0	0	~	pgm_rtp
+3616	D-II	0	0	0	~	d-ii
+3617	IATP	0	0	0	~	iatp
+3618	Schedule Transfer Protocol	0	0	0	~	schedule_transf
+3619	SRP	0	0	0	~	srp
+3620	UTI	0	0	0	~	uti
+3621	SMP	0	0	0	~	smp
+3622	SM	0	0	0	~	sm
+3623	PTP	0	0	0	~	ptp
+3624	ISIS	0	0	0	~	isis
+3625	Fire	0	0	0	~	fire
+3626	Combat Radio Transport Protocol	0	0	0	~	combat_radio_tr
+3627	Combat Radio User Datagram	0	0	0	~	combat_radio_us
+3628	SSCOPMCE	0	0	0	~	sscopmce
+3629	IPLT	0	0	0	~	iplt
+3630	SPS	0	0	0	~	sps
+3631	PIPE	0	0	0	~	pipe
+3633	iFCP	0	0	0	~	ifcp
+3634	RSVP-E2E-IGNORE	0	0	0	~	rsvp-e2e-ignore
+3637	MPLS	0	0	0	~	mpls
+3639	HIP	0	0	0	~	hip
+3641	Amazon Cloud Drive Download	0	0	0	~	amazon_cloud_dr
+3648	Kik Messenger	0	453	1370	~	kik_messenger
+3652	VPNReactor	0	0	1789	~	vpnreactor
+3653	CyberGhost VPN	0	0	1785	~	cyberghost_vpn
+3655	Alipay	0	0	1526	~	alipay
+3656	Crittercism	0	0	1492	~	crittercism
+3657	Delta Search	0	0	1493	~	delta_search
+3659	MelOn	0	0	1494	~	melon
+3670	Microsoft Store	0	0	1495	~	microsoft_store
+3671	news.com.au	0	0	1496	~	news.com.au
+3672	OpenCandy	0	0	1497	~	opencandy
+3673	Soso	0	0	1498	~	soso
+3674	Woolik	0	0	1499	~	woolik
+3676	Airsoft Powerburst	0	0	0	~	airsoft_powerbu
+3677	GSS HTTP	0	0	0	~	gss_http
+3678	NetWall	0	0	0	~	netwall
+3679	Eudora Set	0	0	0	~	eudora_set
+3680	Service Status Update	0	0	0	~	service_status_
+3681	ESRO-EMSDP V1.3	0	0	0	~	esro-emsdp_v1.3
+3682	OLSR	0	0	0	~	olsr
+3683	PKIX-3 CA/RA	0	0	0	~	pkix-3_ca/ra
+3684	Oracle Remote Data Base	0	0	0	~	oracle_remote_d
+3685	ISCSI	0	0	0	~	iscsi
+3686	Tapeware	0	0	0	~	tapeware
+3687	IAX	0	0	0	~	iax
+3688	CVSup	0	0	0	~	cvsup
+3689	MSOC File Transfer	0	0	0	~	msoc_file_trans
+3690	McAfee AutoUpdate	0	0	0	~	mcafee_autoupda
+3691	AMANDA	0	0	0	~	amanda
+3692	Oracle Business Intelligence	0	0	0	~	oracle_business
+3693	webster	0	0	0	~	webster
+3694	tn-tl-fd1	0	0	0	~	tn-tl-fd1
+3695	GGP	0	0	0	~	ggp
+3696	MERIT Internodal Protocol	0	0	0	~	merit_internoda
+3699	UDP Lite	0	0	0	~	udp_lite
+3701	Achetez Facile	0	0	1763	~	achetez_facile
+3702	Ad4mat	0	0	1751	~	ad4mat
+3705	Cedexis	0	0	1748	~	cedexis
+3711	L'equipe.fr	0	0	1709	~	l'equipe.fr
+3712	Ligatus	0	0	1749	~	ligatus
+3713	LINE Games	0	495	1777	~	line_games
+3714	LINE Media	0	493	0	~	line_media
+3715	1000mercis	0	0	1764	~	1000mercis
+3716	Piksel	0	0	1743	~	piksel
+3717	Proxistore	0	0	1765	~	proxistore
+3719	Surikate	0	0	1752	~	surikate
+3721	VIEWON	0	0	1750	~	viewon
+3722	Viewsurf	0	0	1761	~	viewsurf
+3723	Weborama	0	0	1757	~	weborama
+3724	XiTi	0	0	1755	~	xiti
+3725	Zanox	0	0	1754	~	zanox
+3727	QQ Games	0	454	0	~	qq_games
+3728	easyMule	0	0	1371	~	easymule
+3730	Yik Yak	0	470	1372	~	yik_yak
+3733	OpenDoor	0	467	1450	~	opendoor
+3735	OneDrive	0	483	1377	~	onedrive
+3736	LinkedIn Contacts	0	0	1379	~	linkedin_contac
+3737	Rackspace	0	0	1380	~	rackspace
+3738	ServiceNow	0	0	1381	~	servicenow
+3739	T-Online	0	0	1382	~	t-online
+3740	Web.de	0	0	1383	~	web.de
+3741	Workday	0	0	1384	~	workday
+3745	Blizzard	0	0	0	~	blizzard
+3756	Yahoo! Douga	0	0	1385	~	yahoo!_douga
+3757	Yahoo! Box	0	0	1386	~	yahoo!_box
+3762	Crazy Browser	0	204	0	~	crazy_browser
+3763	GreenBrowser	0	205	0	~	greenbrowser
+3764	CometBird	0	202	0	~	cometbird
+3765	Flock	0	199	0	~	flock
+3766	Arora	0	200	0	~	arora
+3767	Facebook Notes	0	0	1360	~	fb_notes
+3777	Browzar	0	201	0	~	browzar
+3778	IEC 60870-5-104	20191	0	0	iec-104	iec-104
+3782	Clip2Net	0	461	1387	~	clip2net
+3783	Clip2Net Upload	0	0	1388	~	clip2net_upload
+3784	LogMeIn Rescue	0	462	1389	~	logmein_rescue
+3785	Mendeley	0	463	1390	~	mendeley
+3786	Onehub	0	0	0	~	onehub
+3787	ZumoDrive	0	464	0	~	zumodrive
+3789	eFax	0	466	1439	~	efax
+3790	Yesky	0	0	1440	~	yesky
+3791	100ye.com	0	0	1441	~	100ye.com
+3792	Yahoo! Screen	0	0	1643	~	yahoo!_screen
+3793	Amazon Instant Video	0	482	1690	~	amazon_instant_
+3798	TISTORY	0	0	1485	~	tistory
+3799	DioDeo	0	0	1486	~	diodeo
+3800	Egloos	0	0	1487	~	egloos
+3801	Lineage	0	0	1488	~	lineage
+3802	MapleStory	0	0	1489	~	maplestory
+3803	ezhelp	0	0	1490	~	ezhelp
+3805	Level 3	0	0	1744	~	level_3
+3810	Speedtest Upload	0	0	0	~	speedtest_uploa
+3811	Channel 4	0	0	1770	~	channel_4
+3812	Opera Mini	0	0	0	~	opera_mini
+3814	Netfolder.in	0	0	1590	~	netfolder.in
+3815	MissLee	0	0	1591	~	misslee
+3816	Mgoon	0	0	1592	~	mgoon
+3817	QDown	0	0	1593	~	qdown
+3818	SBS	0	0	1594	~	sbs
+3822	Bootstrap CDN	0	0	1642	~	bootstrap_cdn
+3836	RIPng	0	0	0	~	ripng
+3837	Aurora	0	0	0	~	aurora
+3839	Diameter	0	0	0	~	diameter
+3842	IGMP	0	0	0	~	igmp
+3843	ISO IP	0	0	0	~	iso_ip
+3846	Ad Master	0	0	1645	~	ad_master
+3847	Ad Tech	0	0	1646	~	ad_tech
+3858	HipChat	0	0	1647	~	hipchat
+3862	PIM	0	0	0	~	pim
+3863	IPComp	0	0	0	~	ipcomp
+3864	PARC Universal Packet	0	0	0	~	parc_universal_
+3865	IDP	0	0	0	~	idp
+3866	360 Safeguard	0	0	1648	~	360_safeguard
+3867	Neobux	0	0	1649	~	neobux
+3868	People's Daily	0	0	1650	~	people's_daily
+3869	Vube	0	0	1651	~	vube
+3870	Kickass Torrents	0	0	1652	~	kickass_torrent
+3871	China Daily	0	0	1653	~	china_daily
+3872	Guangming Online	0	0	1654	~	guangming_onlin
+3873	RevenueHits	0	0	1655	~	revenuehits
+3876	Info.com	0	0	1656	~	info.com
+3885	Gmail attachment	0	0	1657	~	gmail_attachmen
+3886	ESP	0	0	0	~	esp
+3910	Wow	0	0	1658	~	wow_com
+3911	Webcrawler	0	0	1659	~	webcrawler
+3946	Hulu Video	0	0	1671	~	hulu_video
+3947	MQTT	20193	471	0	mqtt	mqtt
+3977	Starsports	0	0	1674	~	starsports
+3978	ESPNcricinfo	0	0	1675	~	espncricinfo
+3979	Microsoft Visual Studio	0	0	1676	~	microsoft_visua
+3980	BlueStacks	0	474	1677	~	bluestacks
+3981	JetBrains	0	475	1678	~	jetbrains
+3982	Youdao Dictionary	0	476	1679	~	youdao_dictiona
+3983	JetBrains update	0	0	1680	~	jetbrains_updat
+3984	JetBrains plugins	0	0	1681	~	jetbrains_plugi
+3985	JetBrains feature	0	0	1682	~	jetbrains_featu
+3986	BlueStacks update	0	0	1683	~	bluestacks_upda
+3987	BlueStacks download	0	0	1684	~	bluestacks_down
+3988	BlueStacks apps	0	0	1685	~	bluestacks_apps
+3989	F-secure	0	477	1686	~	f-secure
+3990	Malwarebytes	0	478	1687	~	malwarebytes
+3991	SUPERAntiSpyware	0	479	1688	~	superantispywar
+3992	Periscope	0	480	1691	~	periscope
+3993	Meerkat	0	481	0	~	meerkat
+4002	FTP Active	0	0	0	~	ftp_active
+4003	FTP Passive	0	0	0	~	ftp_passive
+4010	WPS Office	0	486	1698	~	wps_office
+4012	Apple Pipeline	0	0	1696	~	apple_pipeline
+4013	Kontiki	0	488	1697	~	kontiki
+4014	Brewster	0	0	0	~	brewster
+4016	EA Download Manager	0	487	1695	~	ea_download_man
+4017	Seterus	0	0	0	~	seterus
+4019	JoinMe	0	0	0	~	joinme

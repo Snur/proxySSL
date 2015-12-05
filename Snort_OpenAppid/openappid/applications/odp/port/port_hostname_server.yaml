@@ -1,0 +1,5 @@
+name: hostname
+service_name: hostname_server
+protocol: tcp/udp
+ports: 101
+appId: 671

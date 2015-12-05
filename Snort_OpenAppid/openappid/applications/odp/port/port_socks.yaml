@@ -1,0 +1,5 @@
+name: socks
+service_name: socks
+protocol: tcp/udp
+ports: 1080
+appId: 839

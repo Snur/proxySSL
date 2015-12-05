@@ -1,0 +1,5 @@
+name: daytime
+service_name: daytime
+protocol: tcp/udp
+ports: 13
+appId: 955
