@@ -17,36 +17,26 @@
       		<strong> /etc/snort/rules/[nom_fichier].rules </strong> <br/> <br/>";
 
 	  $oldSID = $sid;	  	  
-	  $id="";
-
-      if (!empty($_POST['app'])) {
-		$listeApp = $_POST['app'];
-		$app = explode(";", $listeApp);
-		foreach ($app as &$value)
-	 	  $id .= "$value ";
-		  
-		$role = "drop tcp any any -> any any (appid:$id; msg:\"Applications bloquées\"; sid:$sid;)";
-		++$sid;
-		echo "$role <br/>";
-	   }
 	   
-	   if (($tag=$_POST['tag']) != "default") {
-	      $role = "drop tcp any any -> any any (content:\"$tag\"; msg:\"Tag bloqué\"; nocase; sid:$sid;)";
-	      echo "$role <br/>";
-	      ++$sid;
+	   foreach ($_POST['tag'] as $tag) {
+		if ($tag != "default") {
+		   $role = "drop tcp any any -> any any (appid:$tag; msg:\"Tag $tag bloqué\"; sid:$sid;)";
+	           echo "$role <br/>";
+	           ++$sid;
+		}
 	   }
 	   
 	   if (!empty($_POST['ajout'])) {
-			$ajout = $_POST['ajout'];
-			$app = explode(";", $ajout);
-			foreach ($app as &$value) {
-			  $tag = explode(":", $value);
-			  $sql = "INSERT INTO tag VALUES ('$tag[1]','$tag[0]')";
-			  $req = mysql_query($sql,$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
-			  $role = "drop tcp any any -> any any (content:\"$tag[1]\"; msg:\"Tag $tag[0] bloqué\"; nocase; sid:$sid;)";
-			  echo "$role <br/>";
-			  ++$sid;
-			}
+		$ajout = $_POST['ajout'];
+		$app = explode(";", $ajout);
+		foreach ($app as &$value) {
+		  $tag = explode(":", $value);
+		  $sql = "INSERT INTO Tag_perso VALUES ('$tag[1]','$tag[0]')";
+		  $req = mysql_query($sql,$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
+		  $role = "drop tcp any any -> any any (content:\"$tag[1]\"; msg:\"Tag $tag[0] bloqué\"; nocase; sid:$sid;)";
+		  echo "$role <br/>";
+		  ++$sid;
+		}
 	   }	  
 
 	    if ($sid != $oldSID) {
