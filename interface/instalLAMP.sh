@@ -27,3 +27,4 @@ systemctl restart mysqld.service
 /usr/bin/mysql_secure_installation
 # Connect to MySQL database (localhost) with password and create the database
 mysql -u root -p < ./script.sql
+php ./bd.php
