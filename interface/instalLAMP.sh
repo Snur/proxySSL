@@ -22,9 +22,11 @@ systemctl enable httpd.service
 
 # Restart MySQL server
 systemctl restart mysqld.service
+# Copy PHP pages into web directory
+sudo cp *.php /var/www/html
 
 # Start MySQL Secure Installation (Answer Yes 'y' to all questions)
 /usr/bin/mysql_secure_installation
-# Connect to MySQL database (localhost) with password and create the database
+# Connect to MySQL database (localhost) with password and create and insert data in the database
 mysql -u root -p < ./script.sql
 php ./bd.php
