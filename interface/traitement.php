@@ -8,6 +8,7 @@
 	  $connect = mysql_connect('localhost','darknet_user','Centos@2015') or die("Erreur de connexion au serveur.");
 	  mysql_select_db('darknet',$connect) or die ("Erreur lors de la connexion à la base de données");
 
+	  // On récupère le dernier SID utilisé dans les règles de snort 
 	  $req = mysql_query("SELECT * FROM Snort_sid",$connect) or die ('Erreur SQL !'.'<br />'.mysql_error());
 	  while($data = mysql_fetch_object($req)) {
 	    $sid = $data->sid_number;
@@ -18,9 +19,18 @@
 
 	  $oldSID = $sid;	  	  
 	   
+	   // On récupère les applications choisies dans l'interface
 	   foreach ($_POST['tag'] as $tag) {
 		if ($tag != "default") {
 		   $role = "drop tcp any any -> any any (appid:$tag; msg:\"Tag $tag bloqué\"; sid:$sid;)";
+	           echo "$role <br/>";
+	           ++$sid;
+		}
+	   }
+
+	   foreach ($_POST['tagP'] as $tag) {
+		if ($tag != "default") {
+		   $role = "drop tcp any any -> any any (content:\"$tag\"; msg:\"Tag $tag bloqué\"; nocase; sid:$sid;)";
 	           echo "$role <br/>";
 	           ++$sid;
 		}
