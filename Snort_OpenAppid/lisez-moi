@@ -1,6 +1,6 @@
 Le fichier de config de snort va dans le dossier /etc/snort/.
 Le fichier app.rules va dans le dossier /etc/snort/rules/.
-Le dossier openappid va dans le dossier /usr/local/
+Le dossier openappid va dans le dossier /usr/local/lib
 
 Pour installer snort avec openappid correctement, il faut désinstaller 
 snort à partir de yum ou en faisant sudo make uninstall si vous l’avez 
